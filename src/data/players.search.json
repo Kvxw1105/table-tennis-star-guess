@@ -1,0 +1,1353 @@
+[
+  {
+    "id": "ma_long",
+    "name": "马龙",
+    "nameEn": "Ma Long",
+    "aliases": [
+      "六边形战士"
+    ],
+    "pinyinInitials": "ml",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "fan_zhendong",
+    "name": "樊振东",
+    "nameEn": "Fan Zhendong",
+    "aliases": [
+      "小胖"
+    ],
+    "pinyinInitials": "fz",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "wang_chuqin",
+    "name": "王楚钦",
+    "nameEn": "Wang Chuqin",
+    "aliases": [
+      "大头"
+    ],
+    "pinyinInitials": "wc",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "zhang_jike",
+    "name": "张继科",
+    "nameEn": "Zhang Jike",
+    "aliases": [
+      "帝国绝凶虎"
+    ],
+    "pinyinInitials": "zj",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "xu_xin",
+    "name": "许昕",
+    "nameEn": "Xu Xin",
+    "aliases": [
+      "人民艺术家",
+      "大蟒"
+    ],
+    "pinyinInitials": "xx",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "sun_yingsha",
+    "name": "孙颖莎",
+    "nameEn": "Sun Yingsha",
+    "aliases": [
+      "小魔王"
+    ],
+    "pinyinInitials": "sy",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "chen_meng",
+    "name": "陈梦",
+    "nameEn": "Chen Meng",
+    "aliases": [],
+    "pinyinInitials": "cm",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "wang_manyu",
+    "name": "王曼昱",
+    "nameEn": "Wang Manyu",
+    "aliases": [
+      "鳗鱼"
+    ],
+    "pinyinInitials": "wm",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "zhang_yining",
+    "name": "张怡宁",
+    "nameEn": "Zhang Yining",
+    "aliases": [
+      "初代大魔王"
+    ],
+    "pinyinInitials": "zy",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "liu_guoliang",
+    "name": "刘国梁",
+    "nameEn": "Liu Guoliang",
+    "aliases": [
+      "不懂球的胖子"
+    ],
+    "pinyinInitials": "lg",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "lin_gaoyuan",
+    "name": "林高远",
+    "nameEn": "Lin Gaoyuan",
+    "aliases": [
+      "林妹妹"
+    ],
+    "pinyinInitials": "lg",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "liang_jingkun",
+    "name": "梁靖崑",
+    "nameEn": "Liang Jingkun",
+    "aliases": [
+      "大胖",
+      "七局吉吉国王"
+    ],
+    "pinyinInitials": "lj",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "wang_yidi",
+    "name": "王艺迪",
+    "nameEn": "Wang Yidi",
+    "aliases": [
+      "大迪"
+    ],
+    "pinyinInitials": "wy",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "liu_shiwen",
+    "name": "刘诗雯",
+    "nameEn": "Liu Shiwen",
+    "aliases": [
+      "小枣"
+    ],
+    "pinyinInitials": "ls",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "ding_ning",
+    "name": "丁宁",
+    "nameEn": "Ding Ning",
+    "aliases": [
+      "大宝贝"
+    ],
+    "pinyinInitials": "dn",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "ma_lin",
+    "name": "马琳",
+    "nameEn": "Ma Lin",
+    "aliases": [
+      "直板魔术师"
+    ],
+    "pinyinInitials": "ml",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "wang_hao",
+    "name": "王皓",
+    "nameEn": "Wang Hao",
+    "aliases": [],
+    "pinyinInitials": "wh",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "wang_liqin",
+    "name": "王励勤",
+    "nameEn": "Wang Liqin",
+    "aliases": [
+      "大力"
+    ],
+    "pinyinInitials": "wl",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "kong_linghui",
+    "name": "孔令辉",
+    "nameEn": "Kong Linghui",
+    "aliases": [
+      "乒乓王子"
+    ],
+    "pinyinInitials": "kl",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "deng_yaping",
+    "name": "邓亚萍",
+    "nameEn": "Deng Yaping",
+    "aliases": [
+      "初代魔王"
+    ],
+    "pinyinInitials": "dy",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "wang_nan",
+    "name": "王楠",
+    "nameEn": "Wang Nan",
+    "aliases": [],
+    "pinyinInitials": "wn",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "chen_xingtong",
+    "name": "陈幸同",
+    "nameEn": "Chen Xingtong",
+    "aliases": [
+      "同同"
+    ],
+    "pinyinInitials": "cx",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "lin_shidong",
+    "name": "林诗栋",
+    "nameEn": "Lin Shidong",
+    "aliases": [
+      "小小胖"
+    ],
+    "pinyinInitials": "ls",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "hou_yingchao",
+    "name": "侯英超",
+    "nameEn": "Hou Yingchao",
+    "aliases": [
+      "地表最强主播",
+      "削球老妖"
+    ],
+    "pinyinInitials": "hy",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "li_xiaoxia",
+    "name": "李晓霞",
+    "nameEn": "Li Xiaoxia",
+    "aliases": [
+      "李大锤"
+    ],
+    "pinyinInitials": "lx",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "fang_bo",
+    "name": "方博",
+    "nameEn": "Fang Bo",
+    "aliases": [
+      "盲人乒乓球梗万恶之源"
+    ],
+    "pinyinInitials": "fb",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "chen_qi",
+    "name": "陈玘",
+    "nameEn": "Chen Qi",
+    "aliases": [
+      "杀神"
+    ],
+    "pinyinInitials": "cq",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "zhou_qihao",
+    "name": "周启豪",
+    "nameEn": "Zhou Qihao",
+    "aliases": [
+      "内战幻神",
+      "神经刀"
+    ],
+    "pinyinInitials": "zq",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "qian_tianyi",
+    "name": "钱天一",
+    "nameEn": "Qian Tianyi",
+    "aliases": [
+      "国乒女队颜值担当"
+    ],
+    "pinyinInitials": "qt",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "he_zhuojia",
+    "name": "何卓佳",
+    "nameEn": "He Zhuojia",
+    "aliases": [
+      "伊藤美诚克星"
+    ],
+    "pinyinInitials": "hz",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "zhang_rui",
+    "name": "张瑞",
+    "nameEn": "Zhang Rui",
+    "aliases": [
+      "孙颖莎黄金陪练"
+    ],
+    "pinyinInitials": "zr",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "kuai_man",
+    "name": "蒯曼",
+    "nameEn": "Kuai Man",
+    "aliases": [
+      "动漫组合（与林诗栋）"
+    ],
+    "pinyinInitials": "km",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "xiang_peng",
+    "name": "向鹏",
+    "nameEn": "Xiang Peng",
+    "aliases": [
+      "张继科亲调新星"
+    ],
+    "pinyinInitials": "xp",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "guo_yue",
+    "name": "郭跃",
+    "nameEn": "Guo Yue",
+    "aliases": [
+      "天才少女"
+    ],
+    "pinyinInitials": "gy",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "yan_an",
+    "name": "闫安",
+    "nameEn": "Yan An",
+    "aliases": [
+      "悲情硬汉"
+    ],
+    "pinyinInitials": "ya",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "zhou_yu",
+    "name": "周雨",
+    "nameEn": "Zhou Yu",
+    "aliases": [],
+    "pinyinInitials": "zy",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "hao_shuai",
+    "name": "郝帅",
+    "nameEn": "Hao Shuai",
+    "aliases": [],
+    "pinyinInitials": "hs",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "zhao_zihao",
+    "name": "赵子豪",
+    "nameEn": "Zhao Zihao",
+    "aliases": [
+      "直板门派火种"
+    ],
+    "pinyinInitials": "zz",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "liu_dingshuo",
+    "name": "刘丁硕",
+    "nameEn": "Liu Dingshuo",
+    "aliases": [
+      "全运会黑马"
+    ],
+    "pinyinInitials": "ld",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "yuan_licen",
+    "name": "袁励岑",
+    "nameEn": "Yuan Licen",
+    "aliases": [],
+    "pinyinInitials": "yl",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "sun_mingyang",
+    "name": "孙铭阳",
+    "nameEn": "Sun Mingyang",
+    "aliases": [
+      "伊藤美诚plus版"
+    ],
+    "pinyinInitials": "sm",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "cai_zhenhua",
+    "name": "蔡振华",
+    "nameEn": "Cai Zhenhua",
+    "aliases": [
+      "国乒拯救者"
+    ],
+    "pinyinInitials": "cz",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "zhuang_zedong",
+    "name": "庄则栋",
+    "nameEn": "Zhuang Zedong",
+    "aliases": [
+      "乒乓外交破冰者"
+    ],
+    "pinyinInitials": "zz",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "rong_guotuan",
+    "name": "容国团",
+    "nameEn": "Rong Guotuan",
+    "aliases": [
+      "新中国首位世界冠军"
+    ],
+    "pinyinInitials": "rg",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "qiao_hong",
+    "name": "乔红",
+    "nameEn": "Qiao Hong",
+    "aliases": [
+      "邓亚萍黄金搭档"
+    ],
+    "pinyinInitials": "qh",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "qiu_yike",
+    "name": "邱贻可",
+    "nameEn": "Qiu Yike",
+    "aliases": [
+      "邱指导"
+    ],
+    "pinyinInitials": "qy",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "ding_song",
+    "name": "丁松",
+    "nameEn": "Ding Song",
+    "aliases": [
+      "魔术刺客"
+    ],
+    "pinyinInitials": "ds",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "wang_tao",
+    "name": "王涛",
+    "nameEn": "Wang Tao",
+    "aliases": [],
+    "pinyinInitials": "wt",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "zhang_chao",
+    "name": "张超",
+    "nameEn": "Zhang Chao",
+    "aliases": [],
+    "pinyinInitials": "zc",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "liu_wei",
+    "name": "刘伟",
+    "nameEn": "Liu Wei",
+    "aliases": [],
+    "pinyinInitials": "lw",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "guo_yan",
+    "name": "郭焱",
+    "nameEn": "Guo Yan",
+    "aliases": [],
+    "pinyinInitials": "gy",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "mu_zi",
+    "name": "木子",
+    "nameEn": "Mu Zi",
+    "aliases": [],
+    "pinyinInitials": "mz",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "jiang_jialiang",
+    "name": "江嘉良",
+    "nameEn": "Jiang Jialiang",
+    "aliases": [],
+    "pinyinInitials": "jj",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "guo_yuehua",
+    "name": "郭跃华",
+    "nameEn": "Guo Yuehua",
+    "aliases": [],
+    "pinyinInitials": "gy",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "li_ju",
+    "name": "李菊",
+    "nameEn": "Li Ju",
+    "aliases": [],
+    "pinyinInitials": "lj",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "ma_wenge",
+    "name": "马文革",
+    "nameEn": "Ma Wenge",
+    "aliases": [],
+    "pinyinInitials": "mw",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "yan_sen",
+    "name": "阎森",
+    "nameEn": "Yan Sen",
+    "aliases": [],
+    "pinyinInitials": "ys",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "shang_kun",
+    "name": "尚坤",
+    "nameEn": "Shang Kun",
+    "aliases": [],
+    "pinyinInitials": "sk",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "xue_fei",
+    "name": "薛飞",
+    "nameEn": "Xue Fei",
+    "aliases": [],
+    "pinyinInitials": "xf",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "xu_yingbin",
+    "name": "徐瑛彬",
+    "nameEn": "Xu Yingbin",
+    "aliases": [],
+    "pinyinInitials": "xy",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "shi_xunyao",
+    "name": "石洵瑶",
+    "nameEn": "Shi Xunyao",
+    "aliases": [],
+    "pinyinInitials": "sx",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "fan_siqi",
+    "name": "范思琦",
+    "nameEn": "Fan Siqi",
+    "aliases": [],
+    "pinyinInitials": "fs",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "chen_yanyi",
+    "name": "陈熠",
+    "nameEn": "Chen Yanyi",
+    "aliases": [],
+    "pinyinInitials": "cy",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "gu_yuting",
+    "name": "顾玉婷",
+    "nameEn": "Gu Yuting",
+    "aliases": [
+      "小太阳"
+    ],
+    "pinyinInitials": "gy",
+    "countryName": "中国大陆",
+    "gender": "female"
+  },
+  {
+    "id": "cao_wei",
+    "name": "曹巍",
+    "nameEn": "Cao Wei",
+    "aliases": [],
+    "pinyinInitials": "cw",
+    "countryName": "中国大陆",
+    "gender": "male"
+  },
+  {
+    "id": "tomokazu_harimoto",
+    "name": "张本智和",
+    "nameEn": "Tomokazu Harimoto",
+    "aliases": [
+      "摩托"
+    ],
+    "pinyinInitials": "th",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "hina_hayata",
+    "name": "早田希娜",
+    "nameEn": "Hina Hayata",
+    "aliases": [
+      "苹果妹"
+    ],
+    "pinyinInitials": "hh",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "miu_hirano",
+    "name": "平野美宇",
+    "nameEn": "Miu Hirano",
+    "aliases": [],
+    "pinyinInitials": "mh",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "koki_niwa",
+    "name": "丹羽孝希",
+    "nameEn": "Koki Niwa",
+    "aliases": [
+      "泥洼老师"
+    ],
+    "pinyinInitials": "kn",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "jun_mizutani",
+    "name": "水谷隼",
+    "nameEn": "Jun Mizutani",
+    "aliases": [],
+    "pinyinInitials": "jm",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "ai_fukuhara",
+    "name": "福原爱",
+    "nameEn": "Ai Fukuhara",
+    "aliases": [
+      "瓷娃娃"
+    ],
+    "pinyinInitials": "af",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "kasumi_ishikawa",
+    "name": "石川佳纯",
+    "nameEn": "Kasumi Ishikawa",
+    "aliases": [
+      "纯妹"
+    ],
+    "pinyinInitials": "ki",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "miwa_harimoto",
+    "name": "张本美和",
+    "nameEn": "Miwa Harimoto",
+    "aliases": [],
+    "pinyinInitials": "mh",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "ito_mima",
+    "name": "伊藤美诚",
+    "nameEn": "Mima Ito",
+    "aliases": [],
+    "pinyinInitials": "im",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "shunsuke_togami",
+    "name": "户上隼辅",
+    "nameEn": "Shunsuke Togami",
+    "aliases": [],
+    "pinyinInitials": "st",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "maharu_yoshimura",
+    "name": "吉村真晴",
+    "nameEn": "Maharu Yoshimura",
+    "aliases": [],
+    "pinyinInitials": "my",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "sora_matsushima",
+    "name": "松岛辉空",
+    "nameEn": "Sora Matsushima",
+    "aliases": [],
+    "pinyinInitials": "sm",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "satsuki_odo",
+    "name": "大藤沙月",
+    "nameEn": "Satsuki Odo",
+    "aliases": [],
+    "pinyinInitials": "so",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "miyuu_kihara",
+    "name": "木原美悠",
+    "nameEn": "Miyuu Kihara",
+    "aliases": [],
+    "pinyinInitials": "mk",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "miyu_nagasaki",
+    "name": "长崎美柚",
+    "nameEn": "Miyu Nagasaki",
+    "aliases": [],
+    "pinyinInitials": "mn",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "koji_matsushita",
+    "name": "松下浩二",
+    "nameEn": "Koji Matsushita",
+    "aliases": [],
+    "pinyinInitials": "km",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "hiroto_shinozuka",
+    "name": "篠塚大登",
+    "nameEn": "Hiroto Shinozuka",
+    "aliases": [],
+    "pinyinInitials": "hs",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "yukiya_uda",
+    "name": "宇田幸矢",
+    "nameEn": "Yukiya Uda",
+    "aliases": [
+      "小钢炮"
+    ],
+    "pinyinInitials": "yu",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "sayaka_hirano",
+    "name": "平野早矢香",
+    "nameEn": "Sayaka Hirano",
+    "aliases": [],
+    "pinyinInitials": "sh",
+    "countryName": "日本",
+    "gender": "female"
+  },
+  {
+    "id": "masataka_morizono",
+    "name": "森园政崇",
+    "nameEn": "Masataka Morizono",
+    "aliases": [],
+    "pinyinInitials": "mm",
+    "countryName": "日本",
+    "gender": "male"
+  },
+  {
+    "id": "ryu_seung_min",
+    "name": "柳承敏",
+    "nameEn": "Ryu Seung Min",
+    "aliases": [],
+    "pinyinInitials": "rsm",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "shin_yubin",
+    "name": "申裕斌",
+    "nameEn": "Shin Yubin",
+    "aliases": [],
+    "pinyinInitials": "sy",
+    "countryName": "韩国",
+    "gender": "female"
+  },
+  {
+    "id": "jeoung_young_sik",
+    "name": "郑荣植",
+    "nameEn": "Jeoung Young Sik",
+    "aliases": [],
+    "pinyinInitials": "jys",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "jang_woo_jin",
+    "name": "张禹珍",
+    "nameEn": "Jang Woo Jin",
+    "aliases": [],
+    "pinyinInitials": "jwj",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "kim_taek_soo",
+    "name": "金泽洙",
+    "nameEn": "Kim Taek Soo",
+    "aliases": [],
+    "pinyinInitials": "kts",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "jeon_ji_hee",
+    "name": "田志希",
+    "nameEn": "Jeon Ji Hee",
+    "aliases": [],
+    "pinyinInitials": "jjh",
+    "countryName": "韩国",
+    "gender": "female"
+  },
+  {
+    "id": "lee_sang_su",
+    "name": "李尚洙",
+    "nameEn": "Lee Sang Su",
+    "aliases": [],
+    "pinyinInitials": "lss",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "joo_sae_hyuk",
+    "name": "朱世赫",
+    "nameEn": "Joo Sae Hyuk",
+    "aliases": [],
+    "pinyinInitials": "jsh",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "yoo_nam_kyu",
+    "name": "刘南奎",
+    "nameEn": "Yoo Nam Kyu",
+    "aliases": [],
+    "pinyinInitials": "ynk",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "seo_hyo_won",
+    "name": "徐孝元",
+    "nameEn": "Seo Hyo Won",
+    "aliases": [],
+    "pinyinInitials": "shw",
+    "countryName": "韩国",
+    "gender": "female"
+  },
+  {
+    "id": "lim_jong_hoon",
+    "name": "林钟勋",
+    "nameEn": "Lim Jong Hoon",
+    "aliases": [],
+    "pinyinInitials": "ljh",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "oh_sang_eun",
+    "name": "吴尚垠",
+    "nameEn": "Oh Sang Eun",
+    "aliases": [],
+    "pinyinInitials": "ose",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "cho_dae_seong",
+    "name": "赵大成",
+    "nameEn": "Cho Dae Seong",
+    "aliases": [],
+    "pinyinInitials": "cds",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "an_jae_hyun",
+    "name": "安宰贤",
+    "nameEn": "An Jae Hyun",
+    "aliases": [],
+    "pinyinInitials": "ajh",
+    "countryName": "韩国",
+    "gender": "male"
+  },
+  {
+    "id": "choi_hyo_joo",
+    "name": "崔孝珠",
+    "nameEn": "Choi Hyo Joo",
+    "aliases": [],
+    "pinyinInitials": "chj",
+    "countryName": "韩国",
+    "gender": "female"
+  },
+  {
+    "id": "hyun_jung_hwa",
+    "name": "玄静和",
+    "nameEn": "Hyun Jung Hwa",
+    "aliases": [],
+    "pinyinInitials": "hjh",
+    "countryName": "韩国",
+    "gender": "female"
+  },
+  {
+    "id": "yang_hae_un",
+    "name": "梁夏银",
+    "nameEn": "Yang Hae Un",
+    "aliases": [],
+    "pinyinInitials": "yhu",
+    "countryName": "韩国",
+    "gender": "female"
+  },
+  {
+    "id": "lee_eun_hye",
+    "name": "李恩惠",
+    "nameEn": "Lee Eun Hye",
+    "aliases": [],
+    "pinyinInitials": "leh",
+    "countryName": "韩国",
+    "gender": "female"
+  },
+  {
+    "id": "timo_boll",
+    "name": "波尔",
+    "nameEn": "Timo Boll",
+    "aliases": [],
+    "pinyinInitials": "tb",
+    "countryName": "德国",
+    "gender": "male"
+  },
+  {
+    "id": "dimitrij_ovtcharov",
+    "name": "奥恰洛夫",
+    "nameEn": "Dimitrij Ovtcharov",
+    "aliases": [],
+    "pinyinInitials": "do",
+    "countryName": "德国",
+    "gender": "male"
+  },
+  {
+    "id": "truls_moregardh",
+    "name": "莫雷加德",
+    "nameEn": "Truls Moregardh",
+    "aliases": [],
+    "pinyinInitials": "tm",
+    "countryName": "瑞典",
+    "gender": "male"
+  },
+  {
+    "id": "felix_lebrun",
+    "name": "F·勒布伦",
+    "nameEn": "Felix Lebrun",
+    "aliases": [],
+    "pinyinInitials": "fl",
+    "countryName": "法国",
+    "gender": "male"
+  },
+  {
+    "id": "alexis_lebrun",
+    "name": "A·勒布伦",
+    "nameEn": "Alexis Lebrun",
+    "aliases": [],
+    "pinyinInitials": "al",
+    "countryName": "法国",
+    "gender": "male"
+  },
+  {
+    "id": "simon_gauzy",
+    "name": "西蒙·高茨",
+    "nameEn": "Simon Gauzy",
+    "aliases": [],
+    "pinyinInitials": "sg",
+    "countryName": "法国",
+    "gender": "male"
+  },
+  {
+    "id": "jorgen_persson",
+    "name": "佩尔森",
+    "nameEn": "Jorgen Persson",
+    "aliases": [],
+    "pinyinInitials": "jp",
+    "countryName": "瑞典",
+    "gender": "male"
+  },
+  {
+    "id": "mattias_falck",
+    "name": "法尔克",
+    "nameEn": "Mattias Falck",
+    "aliases": [],
+    "pinyinInitials": "mf",
+    "countryName": "瑞典",
+    "gender": "male"
+  },
+  {
+    "id": "dang_qiu",
+    "name": "邱党",
+    "nameEn": "Dang Qiu",
+    "aliases": [],
+    "pinyinInitials": "dq",
+    "countryName": "德国",
+    "gender": "male"
+  },
+  {
+    "id": "patrick_franziska",
+    "name": "弗朗西斯卡",
+    "nameEn": "Patrick Franziska",
+    "aliases": [],
+    "pinyinInitials": "pf",
+    "countryName": "德国",
+    "gender": "male"
+  },
+  {
+    "id": "jorg_rosskopf",
+    "name": "罗斯科夫",
+    "nameEn": "Jorg Rosskopf",
+    "aliases": [],
+    "pinyinInitials": "jr",
+    "countryName": "德国",
+    "gender": "male"
+  },
+  {
+    "id": "anton_kallberg",
+    "name": "卡尔伯格",
+    "nameEn": "Anton Kallberg",
+    "aliases": [],
+    "pinyinInitials": "ak",
+    "countryName": "瑞典",
+    "gender": "male"
+  },
+  {
+    "id": "kristian_karlsson",
+    "name": "卡尔松",
+    "nameEn": "Kristian Karlsson",
+    "aliases": [],
+    "pinyinInitials": "kk",
+    "countryName": "瑞典",
+    "gender": "male"
+  },
+  {
+    "id": "jean_philippe_gatien",
+    "name": "盖亭",
+    "nameEn": "Jean Philippe Gatien",
+    "aliases": [],
+    "pinyinInitials": "jpg",
+    "countryName": "法国",
+    "gender": "male"
+  },
+  {
+    "id": "han_ying",
+    "name": "韩莹",
+    "nameEn": "Han Ying",
+    "aliases": [],
+    "pinyinInitials": "hy",
+    "countryName": "德国",
+    "gender": "female"
+  },
+  {
+    "id": "nina_mittelham",
+    "name": "米特兰姆",
+    "nameEn": "Nina Mittelham",
+    "aliases": [],
+    "pinyinInitials": "nm",
+    "countryName": "德国",
+    "gender": "female"
+  },
+  {
+    "id": "jia_nan_yuan",
+    "name": "袁嘉楠",
+    "nameEn": "Jia Nan Yuan",
+    "aliases": [],
+    "pinyinInitials": "jny",
+    "countryName": "法国",
+    "gender": "female"
+  },
+  {
+    "id": "prithika_pavade",
+    "name": "帕瓦德",
+    "nameEn": "Prithika Pavade",
+    "aliases": [],
+    "pinyinInitials": "pp",
+    "countryName": "法国",
+    "gender": "female"
+  },
+  {
+    "id": "hugo_calderano",
+    "name": "雨果",
+    "nameEn": "Hugo Calderano",
+    "aliases": [],
+    "pinyinInitials": "hc",
+    "countryName": "巴西",
+    "gender": "male"
+  },
+  {
+    "id": "vladimir_samsonov",
+    "name": "萨姆索诺夫",
+    "nameEn": "Vladimir Samsonov",
+    "aliases": [],
+    "pinyinInitials": "vs",
+    "countryName": "白俄罗斯",
+    "gender": "male"
+  },
+  {
+    "id": "quadri_aruna",
+    "name": "阿鲁纳",
+    "nameEn": "Quadri Aruna",
+    "aliases": [],
+    "pinyinInitials": "qa",
+    "countryName": "尼日利亚",
+    "gender": "male"
+  },
+  {
+    "id": "werner_schlager",
+    "name": "施拉格",
+    "nameEn": "Werner Schlager",
+    "aliases": [],
+    "pinyinInitials": "ws",
+    "countryName": "奥地利",
+    "gender": "male"
+  },
+  {
+    "id": "bernadette_szocs",
+    "name": "斯佐科斯",
+    "nameEn": "Bernadette Szocs",
+    "aliases": [],
+    "pinyinInitials": "bs",
+    "countryName": "罗马尼亚",
+    "gender": "female"
+  },
+  {
+    "id": "darko_jorgic",
+    "name": "达科",
+    "nameEn": "Darko Jorgic",
+    "aliases": [],
+    "pinyinInitials": "dj",
+    "countryName": "斯洛文尼亚",
+    "gender": "male"
+  },
+  {
+    "id": "adriana_diaz",
+    "name": "迪亚兹",
+    "nameEn": "Adriana Diaz",
+    "aliases": [],
+    "pinyinInitials": "ad",
+    "countryName": "波多黎各",
+    "gender": "female"
+  },
+  {
+    "id": "liam_pitchford",
+    "name": "皮切福德",
+    "nameEn": "Liam Pitchford",
+    "aliases": [],
+    "pinyinInitials": "lp",
+    "countryName": "英国",
+    "gender": "male"
+  },
+  {
+    "id": "zoran_primorac",
+    "name": "普里莫拉茨",
+    "nameEn": "Zoran Primorac",
+    "aliases": [],
+    "pinyinInitials": "zp",
+    "countryName": "克罗地亚",
+    "gender": "male"
+  },
+  {
+    "id": "kalinikos_kreanga",
+    "name": "格林卡",
+    "nameEn": "Kalinikos Kreanga",
+    "aliases": [],
+    "pinyinInitials": "kk",
+    "countryName": "希腊",
+    "gender": "male"
+  },
+  {
+    "id": "omar_assar",
+    "name": "阿萨尔",
+    "nameEn": "Omar Assar",
+    "aliases": [],
+    "pinyinInitials": "oa",
+    "countryName": "埃及",
+    "gender": "male"
+  },
+  {
+    "id": "lily_zhang",
+    "name": "张安",
+    "nameEn": "Lily Zhang",
+    "aliases": [],
+    "pinyinInitials": "lz",
+    "countryName": "美国",
+    "gender": "female"
+  },
+  {
+    "id": "marcos_freitas",
+    "name": "弗雷塔斯",
+    "nameEn": "Marcos Freitas",
+    "aliases": [],
+    "pinyinInitials": "mf",
+    "countryName": "葡萄牙",
+    "gender": "male"
+  },
+  {
+    "id": "sofia_polcanova",
+    "name": "波尔卡诺娃",
+    "nameEn": "Sofia Polcanova",
+    "aliases": [],
+    "pinyinInitials": "sp",
+    "countryName": "奥地利",
+    "gender": "female"
+  },
+  {
+    "id": "ruwen_filus",
+    "name": "菲卢斯",
+    "nameEn": "Ruwen Filus",
+    "aliases": [],
+    "pinyinInitials": "rf",
+    "countryName": "德国",
+    "gender": "male"
+  },
+  {
+    "id": "bruna_takahashi",
+    "name": "高桥布鲁娜",
+    "nameEn": "Bruna Takahashi",
+    "aliases": [],
+    "pinyinInitials": "bt",
+    "countryName": "巴西",
+    "gender": "female"
+  },
+  {
+    "id": "kanak_jha",
+    "name": "卡纳克",
+    "nameEn": "Kanak Jha",
+    "aliases": [],
+    "pinyinInitials": "kj",
+    "countryName": "美国",
+    "gender": "male"
+  },
+  {
+    "id": "elizabeta_samara",
+    "name": "萨马拉",
+    "nameEn": "Elizabeta Samara",
+    "aliases": [],
+    "pinyinInitials": "es",
+    "countryName": "罗马尼亚",
+    "gender": "female"
+  }
+]

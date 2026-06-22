@@ -1,0 +1,7273 @@
+[
+  {
+    "id": "ma_long",
+    "name": "马龙",
+    "nameEn": "Ma Long",
+    "aliases": [
+      "六边形战士"
+    ],
+    "pinyinInitials": "ml",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1988,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 6,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2016",
+        "2021"
+      ],
+      "worlds": [
+        "2015",
+        "2017",
+        "2019"
+      ],
+      "worldCup": [
+        "2012"
+      ],
+      "total": 6
+    },
+    "signature": "正手连续拉如机关枪，首位双圈大满贯得主，日媒眼中的「六边形战士」。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "fan_zhendong",
+    "name": "樊振东",
+    "nameEn": "Fan Zhendong",
+    "aliases": [
+      "小胖"
+    ],
+    "pinyinInitials": "fz",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1997,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 7,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2024"
+      ],
+      "worlds": [
+        "2021",
+        "2023"
+      ],
+      "worldCup": [
+        "2016",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "total": 7
+    },
+    "signature": "暴力美学代表，正手反拉穿透力极强，巴黎圆梦大满贯，人送外号「小胖」。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "wang_chuqin",
+    "name": "王楚钦",
+    "nameEn": "Wang Chuqin",
+    "aliases": [
+      "大头"
+    ],
+    "pinyinInitials": "wc",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 2000,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 2,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "2025"
+      ],
+      "worldCup": [
+        "2026"
+      ],
+      "total": 2
+    },
+    "signature": "左手拧拉极具杀伤力，球风张扬，标志性反手快撕，人送外号「大头」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "zhang_jike",
+    "name": "张继科",
+    "nameEn": "Zhang Jike",
+    "aliases": [
+      "帝国绝凶虎"
+    ],
+    "pinyinInitials": "zj",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1988,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 5,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2012"
+      ],
+      "worlds": [
+        "2011",
+        "2013"
+      ],
+      "worldCup": [
+        "2011",
+        "2014"
+      ],
+      "total": 5
+    },
+    "signature": "帝国绝凶虎！445天最快大满贯，反手霸王拧如炮弹，鹿特丹撕衣狂吼惊艳世界。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "xu_xin",
+    "name": "许昕",
+    "nameEn": "Xu Xin",
+    "aliases": [
+      "人民艺术家",
+      "大蟒"
+    ],
+    "pinyinInitials": "xx",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1990,
+    "hand": "left",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "2013"
+      ],
+      "total": 1
+    },
+    "signature": "「人民艺术家」大蟒，正手全台跑动天下无双，神仙球和背后击球制造机。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "直板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "sun_yingsha",
+    "name": "孙颖莎",
+    "nameEn": "Sun Yingsha",
+    "aliases": [
+      "小魔王"
+    ],
+    "pinyinInitials": "sy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 2000,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 4,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2024"
+      ],
+      "worlds": [
+        "2023",
+        "2025"
+      ],
+      "worldCup": [
+        "2025"
+      ],
+      "total": 4
+    },
+    "signature": "球风灵动犀利，正手连续进攻极具压迫感，外号「小魔王」，现役女乒断层第一。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "chen_meng",
+    "name": "陈梦",
+    "nameEn": "Chen Meng",
+    "aliases": [],
+    "pinyinInitials": "cm",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1994,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 2,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2020"
+      ],
+      "worlds": [],
+      "worldCup": [
+        "2021"
+      ],
+      "total": 2
+    },
+    "signature": "防守密不透风，单板质量极高，东京巴黎两届奥运女单夺魁，「我的时代到来了」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "wang_manyu",
+    "name": "王曼昱",
+    "nameEn": "Wang Manyu",
+    "aliases": [
+      "鳗鱼"
+    ],
+    "pinyinInitials": "wm",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1999,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "2021"
+      ],
+      "worldCup": [],
+      "total": 1
+    },
+    "signature": "反手拧拉犹如男子选手，护台面积惊人，外号「海产姐妹」之一的「鳗鱼」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "zhang_yining",
+    "name": "张怡宁",
+    "nameEn": "Zhang Yining",
+    "aliases": [
+      "初代大魔王"
+    ],
+    "pinyinInitials": "zy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1981,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 8,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2004",
+        "2008"
+      ],
+      "worlds": [
+        "2001",
+        "2005",
+        "2007"
+      ],
+      "worldCup": [
+        "2001",
+        "2002",
+        "2004"
+      ],
+      "total": 8
+    },
+    "signature": "初代「大魔王」，防守无懈可击，冷酷无情的表情与「演技拙劣」的让球成绝代经典。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "liu_guoliang",
+    "name": "刘国梁",
+    "nameEn": "Liu Guoliang",
+    "aliases": [
+      "不懂球的胖子"
+    ],
+    "pinyinInitials": "lg",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1976,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "short_pips",
+    "backhandRubber": "inverted",
+    "rubberProfile": "正手正胶 / 反手反胶",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 3,
+    "singlesMajorTitles": {
+      "olympic": [
+        "1996"
+      ],
+      "worlds": [
+        "1999"
+      ],
+      "worldCup": [
+        "1996"
+      ],
+      "total": 3
+    },
+    "signature": "直板正胶快攻打法，中国首位男子大满贯，被台湾网友戏称「那个不懂球的胖子」。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "正手正胶 / 反手反胶",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "lin_gaoyuan",
+    "name": "林高远",
+    "nameEn": "Lin Gaoyuan",
+    "aliases": [
+      "林妹妹"
+    ],
+    "pinyinInitials": "lg",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1995,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手快撕极具穿透力，球风灵动飘逸，人称「林妹妹」，时常打出令人惊叹的神仙球。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "liang_jingkun",
+    "name": "梁靖崑",
+    "nameEn": "Liang Jingkun",
+    "aliases": [
+      "大胖",
+      "七局吉吉国王"
+    ],
+    "pinyinInitials": "lj",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1996,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "国乒出名的「大胖」，正反手单板质量极高，力量极大，人送外号「七局吉吉国王」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "wang_yidi",
+    "name": "王艺迪",
+    "nameEn": "Wang Yidi",
+    "aliases": [
+      "大迪"
+    ],
+    "pinyinInitials": "wy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1997,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "力量型打法代表，正手杀伤力惊人，性格直率被球迷亲切称为「大迪」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "liu_shiwen",
+    "name": "刘诗雯",
+    "nameEn": "Liu Shiwen",
+    "aliases": [
+      "小枣"
+    ],
+    "pinyinInitials": "ls",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1991,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 6,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "2019"
+      ],
+      "worldCup": [
+        "2009",
+        "2012",
+        "2013",
+        "2015",
+        "2016"
+      ],
+      "total": 6
+    },
+    "signature": "近台快攻如暴风骤雨，人称「小枣」，史无前例的世界杯女单五冠王。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "ding_ning",
+    "name": "丁宁",
+    "nameEn": "Ding Ning",
+    "aliases": [
+      "大宝贝"
+    ],
+    "pinyinInitials": "dn",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1990,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 7,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2012"
+      ],
+      "worlds": [
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "worldCup": [
+        "2011",
+        "2014",
+        "2018"
+      ],
+      "total": 7
+    },
+    "signature": "标志性的下蹲砍式发球，防守韧性极强被称「大满贯铁壁」，球迷口中的「大宝贝」。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "ma_lin",
+    "name": "马琳",
+    "nameEn": "Ma Lin",
+    "aliases": [
+      "直板魔术师"
+    ],
+    "pinyinInitials": "ml",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1980,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 3,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "2000",
+        "2003",
+        "2004"
+      ],
+      "total": 3
+    },
+    "signature": "「直板魔术师」，台内小球和发球极具算计，十八般武艺样样精通的北京奥运男单冠军。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "wang_hao",
+    "name": "王皓",
+    "nameEn": "Wang Hao",
+    "aliases": [],
+    "pinyinInitials": "wh",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1983,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "直板横打技术的集大成者，反手无需推挡全靠拉冲，奥运三连亚的悲情与伟大并存。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "wang_liqin",
+    "name": "王励勤",
+    "nameEn": "Wang Liqin",
+    "aliases": [
+      "大力"
+    ],
+    "pinyinInitials": "wl",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1978,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 3,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "2001",
+        "2003",
+        "2005"
+      ],
+      "worldCup": [],
+      "total": 3
+    },
+    "signature": "正手暴冲弧圈球天下第一，力量堪比欧洲重炮，一代中国男乒的定海神针「大力」。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "kong_linghui",
+    "name": "孔令辉",
+    "nameEn": "Kong Linghui",
+    "aliases": [
+      "乒乓王子"
+    ],
+    "pinyinInitials": "kl",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1975,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 3,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2000"
+      ],
+      "worlds": [
+        "1995"
+      ],
+      "worldCup": [
+        "1995"
+      ],
+      "total": 3
+    },
+    "signature": "「乒乓王子」，横板两面弧圈打法的先驱，与刘国梁并称双子星，悉尼狂吻国服夺冠。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "deng_yaping",
+    "name": "邓亚萍",
+    "nameEn": "Deng Yaping",
+    "aliases": [
+      "初代魔王"
+    ],
+    "pinyinInitials": "dy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1973,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 6,
+    "singlesMajorTitles": {
+      "olympic": [
+        "1992",
+        "1996"
+      ],
+      "worlds": [
+        "1991",
+        "1995",
+        "1997"
+      ],
+      "worldCup": [
+        "1996"
+      ],
+      "total": 6
+    },
+    "signature": "身材矮小但爆发力恐怖，反手长胶极具杀伤力，萨马兰奇最欣赏的初代国乒「初代魔王」。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "wang_nan",
+    "name": "王楠",
+    "nameEn": "Wang Nan",
+    "aliases": [],
+    "pinyinInitials": "wn",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1978,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 6,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2000"
+      ],
+      "worlds": [
+        "1999",
+        "2003"
+      ],
+      "worldCup": [
+        "1997",
+        "1998",
+        "2000"
+      ],
+      "total": 6
+    },
+    "signature": "左手将，心理素质极佳的逆转女王，职业生涯斩获24个世界冠军的绝对领军人物。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "chen_xingtong",
+    "name": "陈幸同",
+    "nameEn": "Chen Xingtong",
+    "aliases": [
+      "同同"
+    ],
+    "pinyinInitials": "cx",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1997,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手相持能力极强，防守如铜墙铁壁，国乒女队中坚力量，被球迷称为「同同」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "lin_shidong",
+    "name": "林诗栋",
+    "nameEn": "Lin Shidong",
+    "aliases": [
+      "小小胖"
+    ],
+    "pinyinInitials": "ls",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 2005,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手拧拉极度暴力，被视作樊振东接班人的国乒天才小将，人称「小小胖」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "hou_yingchao",
+    "name": "侯英超",
+    "nameEn": "Hou Yingchao",
+    "aliases": [
+      "地表最强主播",
+      "削球老妖"
+    ],
+    "pinyinInitials": "hy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1980,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "defense",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "long_pips",
+    "rubberProfile": "正手反胶 / 反手长胶",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "「地表最强主播」，全网公认的削球老妖，39岁高龄还能拿下全国锦标赛单打冠军。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "削球",
+      "正手反胶 / 反手长胶",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "li_xiaoxia",
+    "name": "李晓霞",
+    "nameEn": "Li Xiaoxia",
+    "aliases": [
+      "李大锤"
+    ],
+    "pinyinInitials": "lx",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1988,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 3,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2012"
+      ],
+      "worlds": [
+        "2013"
+      ],
+      "worldCup": [
+        "2008"
+      ],
+      "total": 3
+    },
+    "signature": "击球质量极高，号称「李大锤」，伦敦奥运女单冠军，以暴力弧圈球横扫女子乒坛。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "fang_bo",
+    "name": "方博",
+    "nameEn": "Fang Bo",
+    "aliases": [
+      "盲人乒乓球梗万恶之源"
+    ],
+    "pinyinInitials": "fb",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1992,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "全网著名「盲人乒乓球」梗的万恶之源，2015年苏州世乒赛连克许昕张继科杀入决赛。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "chen_qi",
+    "name": "陈玘",
+    "nameEn": "Chen Qi",
+    "aliases": [
+      "杀神"
+    ],
+    "pinyinInitials": "cq",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1983,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "人送外号「杀神」，左手搏杀极度暴力，曾因赛场摔拍子被刘国梁下放去农村养猪。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "zhou_qihao",
+    "name": "周启豪",
+    "nameEn": "Zhou Qihao",
+    "aliases": [
+      "内战幻神",
+      "神经刀"
+    ],
+    "pinyinInitials": "zq",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1997,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "著名的内战幻神与「神经刀」，直通赛能连爆马龙樊振东，外战却经常让球迷心惊肉跳。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "qian_tianyi",
+    "name": "钱天一",
+    "nameEn": "Qian Tianyi",
+    "aliases": [
+      "国乒女队颜值担当"
+    ],
+    "pinyinInitials": "qt",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 2000,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "国乒女队颜值担当之一，左手持拍球风优雅，曾在WTT大满贯赛爆冷杀入女单决赛。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "he_zhuojia",
+    "name": "何卓佳",
+    "nameEn": "He Zhuojia",
+    "aliases": [
+      "伊藤美诚克星"
+    ],
+    "pinyinInitials": "hz",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1998,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "medium_pips",
+    "rubberProfile": "正手反胶 / 反手半长胶",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手半长胶防守固若金汤，被球迷称为「伊藤美诚克星」的国乒幕后英雄、顶级陪练。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "正手反胶 / 反手半长胶",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "zhang_rui",
+    "name": "张瑞",
+    "nameEn": "Zhang Rui",
+    "aliases": [
+      "孙颖莎黄金陪练"
+    ],
+    "pinyinInitials": "zr",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1997,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "raw_pips",
+    "rubberProfile": "正手反胶 / 反手生胶",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手生胶打法，孙颖莎斩获大满贯背后的黄金陪练，WTT新加坡赛曾大放异彩。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "正手反胶 / 反手生胶",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "kuai_man",
+    "name": "蒯曼",
+    "nameEn": "Kuai Man",
+    "aliases": [
+      "动漫组合（与林诗栋）"
+    ],
+    "pinyinInitials": "km",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 2004,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "国乒洛杉矶周期重点培养的左手小将，常与林诗栋搭档混双，被球迷戏称「动漫组合」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "xiang_peng",
+    "name": "向鹏",
+    "nameEn": "Xiang Peng",
+    "aliases": [
+      "张继科亲调新星"
+    ],
+    "pinyinInitials": "xp",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 2003,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "正手动作被张继科亲自调教过的新星，WTT赛场屡次挑落外协名将，国乒男线潜力股。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "guo_yue",
+    "name": "郭跃",
+    "nameEn": "Guo Yue",
+    "aliases": [
+      "天才少女"
+    ],
+    "pinyinInitials": "gy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1988,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "假小子般犀利前三板，16岁成为最年轻世界冠军，世乒赛将张怡宁逼入绝境的天才少女。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "yan_an",
+    "name": "闫安",
+    "nameEn": "Yan An",
+    "aliases": [
+      "悲情硬汉"
+    ],
+    "pinyinInitials": "ya",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1993,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "前国乒男队主力层边缘的「悲情硬汉」，反手快撕极具特点，退役后成为知名乒乓主播。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "zhou_yu",
+    "name": "周雨",
+    "nameEn": "Zhou Yu",
+    "aliases": [],
+    "pinyinInitials": "zy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1992,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "全运会单打亚军，左手反手能力曾惊艳整个乒坛，当年与樊振东搭档的男双天下无敌。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "hao_shuai",
+    "name": "郝帅",
+    "nameEn": "Hao Shuai",
+    "aliases": [],
+    "pinyinInitials": "hs",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1983,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "打球灵气四溢，上海世乒赛被梅兹放高球逆转成生涯遗憾，40岁依然能在日本T联赛赢球。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "zhao_zihao",
+    "name": "赵子豪",
+    "nameEn": "Zhao Zihao",
+    "aliases": [
+      "直板门派火种"
+    ],
+    "pinyinInitials": "zz",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1997,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "国乒新生代中极为罕见的直板单面拉选手，许昕之后直板门派苦苦支撑的火种。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "liu_dingshuo",
+    "name": "刘丁硕",
+    "nameEn": "Liu Dingshuo",
+    "aliases": [
+      "全运会黑马"
+    ],
+    "pinyinInitials": "ld",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1998,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "全运会男单大黑马，力克诸多世界冠军摘银，王楚钦在国家队最好兄弟之一。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "yuan_licen",
+    "name": "袁励岑",
+    "nameEn": "Yuan Licen",
+    "aliases": [],
+    "pinyinInitials": "yl",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 2000,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "左手小将，曾在多哈挑战赛接连爆冷击败外协强敌夺冠，国乒男线的重要轮换力量。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "sun_mingyang",
+    "name": "孙铭阳",
+    "nameEn": "Sun Mingyang",
+    "aliases": [
+      "伊藤美诚plus版"
+    ],
+    "pinyinInitials": "sm",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1999,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "raw_pips",
+    "rubberProfile": "正手反胶 / 反手生胶",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手生胶弹击势大力沉，外形酷似伊藤美诚的「plus版」，也是模仿伊藤的首席陪练。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "正手反胶 / 反手生胶",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "cai_zhenhua",
+    "name": "蔡振华",
+    "nameEn": "Cai Zhenhua",
+    "aliases": [
+      "国乒拯救者"
+    ],
+    "pinyinInitials": "cz",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1961,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "倒板发球极其诡异，逼迫国际乒联出台「球拍两面必须不同颜色」规则，后临危受命拯救男乒。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "zhuang_zedong",
+    "name": "庄则栋",
+    "nameEn": "Zhuang Zedong",
+    "aliases": [
+      "乒乓外交破冰者"
+    ],
+    "pinyinInitials": "zz",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1940,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "short_pips",
+    "backhandRubber": "inverted",
+    "rubberProfile": "正手正胶 / 反手反胶",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 3,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "1961",
+        "1963",
+        "1965"
+      ],
+      "worldCup": [],
+      "total": 3
+    },
+    "signature": "世乒赛男单三连冠霸主，「乒乓外交」的破冰者，近台两面攻打法开创了一个时代。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "正手正胶 / 反手反胶",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "rong_guotuan",
+    "name": "容国团",
+    "nameEn": "Rong Guotuan",
+    "aliases": [
+      "新中国首位世界冠军"
+    ],
+    "pinyinInitials": "rg",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1937,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "short_pips",
+    "backhandRubber": "inverted",
+    "rubberProfile": "正手正胶 / 反手反胶",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "1959"
+      ],
+      "worldCup": [],
+      "total": 1
+    },
+    "signature": "「人生能有几回搏！」新中国历史上第一位世界冠军，奠定中国乒乓球大国地位的丰碑。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "正手正胶 / 反手反胶",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "qiao_hong",
+    "name": "乔红",
+    "nameEn": "Qiao Hong",
+    "aliases": [
+      "邓亚萍黄金搭档"
+    ],
+    "pinyinInitials": "qh",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1968,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "邓亚萍身边的黄金搭档，世乒赛女单冠军，性格温和却防守稳健，后成为王楠恩师。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "qiu_yike",
+    "name": "邱贻可",
+    "nameEn": "Qiu Yike",
+    "aliases": [
+      "邱指导"
+    ],
+    "pinyinInitials": "qy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1985,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "2003巴黎擒波尔一战成名，昔日国乒刺头如今化身孙颖莎身边的温情老父亲「邱指导」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "ding_song",
+    "name": "丁松",
+    "nameEn": "Ding Song",
+    "aliases": [
+      "魔术刺客"
+    ],
+    "pinyinInitials": "ds",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1971,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "defense",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "long_pips",
+    "rubberProfile": "正手反胶 / 反手长胶",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "削中反攻的鼻祖「魔术刺客」，95天津世乒赛作为国乒秘密武器出场，把卡尔松削到崩溃。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "削球",
+      "正手反胶 / 反手长胶",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "wang_tao",
+    "name": "王涛",
+    "nameEn": "Wang Tao",
+    "aliases": [],
+    "pinyinInitials": "wt",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1967,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "raw_pips",
+    "rubberProfile": "正手反胶 / 反手生胶",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手生胶弹击大师，微胖界灵活死胖子代表，95年天津夺冠后倒地大哭成男乒永恒经典。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "正手反胶 / 反手生胶",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "zhang_chao",
+    "name": "张超",
+    "nameEn": "Zhang Chao",
+    "aliases": [],
+    "pinyinInitials": "zc",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1985,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "打球极富激情的前国手，退役后做场外指导以「口若悬河、输出全靠吼」的战术名震全网。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "liu_wei",
+    "name": "刘伟",
+    "nameEn": "Liu Wei",
+    "aliases": [],
+    "pinyinInitials": "lw",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1969,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "七届全国冠军得主，但真正让她火遍全网的是央视解说席上一句「难道我也需要懂球吗」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "guo_yan",
+    "name": "郭焱",
+    "nameEn": "Guo Yan",
+    "aliases": [],
+    "pinyinInitials": "gy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1982,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 2,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "2006",
+        "2010"
+      ],
+      "total": 2
+    },
+    "signature": "力量型女子打法的代表人物，正手弧圈球势大力沉，两夺世界杯单打冠军的女乒硬核名将。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "mu_zi",
+    "name": "木子",
+    "nameEn": "Mu Zi",
+    "aliases": [],
+    "pinyinInitials": "mz",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1989,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "raw_pips",
+    "rubberProfile": "正手反胶 / 反手生胶",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手生胶弹击极具特色，性格直率被称女队「叛逆少女」，苏州世乒赛从资格赛一路杀进四强。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "正手反胶 / 反手生胶",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "jiang_jialiang",
+    "name": "江嘉良",
+    "nameEn": "Jiang Jialiang",
+    "aliases": [],
+    "pinyinInitials": "jj",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1964,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "short_pips",
+    "backhandRubber": "inverted",
+    "rubberProfile": "正手正胶 / 反手反胶",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 2,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "1985",
+        "1987"
+      ],
+      "worldCup": [],
+      "total": 2
+    },
+    "signature": "80年代体坛顶流帅哥，直板正胶快攻的巅峰，两次加冕世乒赛男单冠军。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "正手正胶 / 反手反胶",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "guo_yuehua",
+    "name": "郭跃华",
+    "nameEn": "Guo Yuehua",
+    "aliases": [],
+    "pinyinInitials": "gy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1956,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 2,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "1979",
+        "1983"
+      ],
+      "worldCup": [],
+      "total": 2
+    },
+    "signature": "直板反胶快攻结合弧圈打法先驱，连续四届世乒赛杀入男单决赛的绝对霸主。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "li_ju",
+    "name": "李菊",
+    "nameEn": "Li Ju",
+    "aliases": [],
+    "pinyinInitials": "lj",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1976,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "球风男性化的女乒悍将，反手势大力沉，王楠巅峰期最强劲的对手与双打黄金搭档。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "ma_wenge",
+    "name": "马文革",
+    "nameEn": "Ma Wenge",
+    "aliases": [],
+    "pinyinInitials": "mw",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1968,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 2,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "1989",
+        "1990"
+      ],
+      "total": 2
+    },
+    "signature": "国乒男队最黑暗时期的「孤勇者」，凭借势大力沉的横板两面拉苦苦支撑起中国队的脊梁。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "yan_sen",
+    "name": "阎森",
+    "nameEn": "Yan Sen",
+    "aliases": [],
+    "pinyinInitials": "ys",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1975,
+    "hand": "left",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "刘国梁口中「打球像个鬼」的男人，左手直板灵气逼人，与王励勤组成天下无敌的双打组合。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "直板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "shang_kun",
+    "name": "尚坤",
+    "nameEn": "Shang Kun",
+    "aliases": [],
+    "pinyinInitials": "sk",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1990,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "国乒左手大炮，退役后赴德甲萨尔布吕肯俱乐部打球，一度打出堪比外挂的惊人胜率。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "xue_fei",
+    "name": "薛飞",
+    "nameEn": "Xue Fei",
+    "aliases": [],
+    "pinyinInitials": "xf",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1999,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "直板横打技术出色，曾被视为王皓接班人，WTT常规挑战赛经常出战的国乒直板火种。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "xu_yingbin",
+    "name": "徐瑛彬",
+    "nameEn": "Xu Yingbin",
+    "aliases": [],
+    "pinyinInitials": "xy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 2001,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "国乒男线潜力股，曾在国内赛事中爆冷击败樊振东，WTT支线赛和挑战赛的常客。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "shi_xunyao",
+    "name": "石洵瑶",
+    "nameEn": "Shi Xunyao",
+    "aliases": [],
+    "pinyinInitials": "sx",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 2001,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "戴着黑框眼镜打球是其早期标志，世青赛单打冠军，国乒洛杉矶周期重点考察梯队。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "fan_siqi",
+    "name": "范思琦",
+    "nameEn": "Fan Siqi",
+    "aliases": [],
+    "pinyinInitials": "fs",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1998,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "基本功极为扎实，反手相持不落下风，在WTT商业赛事中多次斩获单打冠军的实力派。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "chen_yanyi",
+    "name": "陈熠",
+    "nameEn": "Chen Yanyi",
+    "aliases": [],
+    "pinyinInitials": "cy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 2004,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "身高超过1米75的国乒高妹，护台面积巨大，近年来活跃于WTT各级别挑战赛的新星。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "gu_yuting",
+    "name": "顾玉婷",
+    "nameEn": "Gu Yuting",
+    "aliases": [
+      "小太阳"
+    ],
+    "pinyinInitials": "gy",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "female",
+    "birthYear": 1995,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "左手凶悍的「小太阳」，曾在青奥会夺冠，退役后因为直率开朗的性格在直播圈很受欢迎。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "cao_wei",
+    "name": "曹巍",
+    "nameEn": "Cao Wei",
+    "aliases": [],
+    "pinyinInitials": "cw",
+    "countryName": "中国大陆",
+    "flagEmoji": "🇨🇳",
+    "gender": "male",
+    "birthYear": 1999,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "国乒原左手悍将，与王楚钦多次搭档双打，离开国家队后前往海外联赛淘金。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "中国大陆",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "tomokazu_harimoto",
+    "name": "张本智和",
+    "nameEn": "Tomokazu Harimoto",
+    "aliases": [
+      "摩托"
+    ],
+    "pinyinInitials": "th",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 2003,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "标志性「摩托」狂吼响彻球馆，反手极具威胁，国乒男队洛杉矶周期头号大敌。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "hina_hayata",
+    "name": "早田希娜",
+    "nameEn": "Hina Hayata",
+    "aliases": [
+      "苹果妹"
+    ],
+    "pinyinInitials": "hh",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 2000,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "左手正手相持能力极强，球迷口中的「苹果妹」，巴黎奥运带伤摘铜感动全场。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "miu_hirano",
+    "name": "平野美宇",
+    "nameEn": "Miu Hirano",
+    "aliases": [],
+    "pinyinInitials": "mh",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 2000,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "2017"
+      ],
+      "total": 1
+    },
+    "signature": "极具爆发力的近台快撕，曾一串三横扫国乒夺得亚锦赛冠军，日本现役唯一世界杯女单金牌。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "三大赛单打冠军",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "koki_niwa",
+    "name": "丹羽孝希",
+    "nameEn": "Koki Niwa",
+    "aliases": [
+      "泥洼老师"
+    ],
+    "pinyinInitials": "kn",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 1994,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "佛系打法名震江湖的「泥洼老师」，侧切和随性砍式防守极具观赏性，打卡下班第一人。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "jun_mizutani",
+    "name": "水谷隼",
+    "nameEn": "Jun Mizutani",
+    "aliases": [],
+    "pinyinInitials": "jm",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 1989,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "东京奥运击败昕雯组合夺金，比赛被爆绝不穿内裤的日本男乒前一哥，退役后进军娱乐圈。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "ai_fukuhara",
+    "name": "福原爱",
+    "nameEn": "Ai Fukuhara",
+    "aliases": [
+      "瓷娃娃"
+    ],
+    "pinyinInitials": "af",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 1988,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "medium_pips",
+    "rubberProfile": "正手反胶 / 反手半长胶",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "一口流利东北话的「瓷娃娃」，反手半长胶极具特点，被大魔王打哭的视频全网爆火。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "正手反胶 / 反手半长胶",
+      "世界第一",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "kasumi_ishikawa",
+    "name": "石川佳纯",
+    "nameEn": "Kasumi Ishikawa",
+    "aliases": [
+      "纯妹"
+    ],
+    "pinyinInitials": "ki",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 1993,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "左手球风极具韧性，全中国球迷最心疼的「纯妹」，退役后依然是中日乒乓交流大使。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "世界第一",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "miwa_harimoto",
+    "name": "张本美和",
+    "nameEn": "Miwa Harimoto",
+    "aliases": [],
+    "pinyinInitials": "mh",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 2008,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手相持能力惊人的天才少女，张本智和的亲妹妹，15岁便入选奥运阵容的超强新星。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "ito_mima",
+    "name": "伊藤美诚",
+    "nameEn": "Mima Ito",
+    "aliases": [],
+    "pinyinInitials": "im",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 2000,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "raw_pips",
+    "rubberProfile": "正手反胶 / 反手生胶",
+    "activeStatus": "active",
+    "worldNo1": true,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手生胶弹击诡异狠辣，发球姿势被戏称「作法」，凭一己之力推高国乒女队警戒线。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "正手反胶 / 反手生胶",
+      "世界第一",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "shunsuke_togami",
+    "name": "户上隼辅",
+    "nameEn": "Shunsuke Togami",
+    "aliases": [],
+    "pinyinInitials": "st",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 2001,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "球风极为硬朗张扬，多次蝉联全日本锦标赛男单冠军，正反手暴力弧圈打法的代表。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "maharu_yoshimura",
+    "name": "吉村真晴",
+    "nameEn": "Maharu Yoshimura",
+    "aliases": [],
+    "pinyinInitials": "my",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 1993,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "发球姿势极其夸张的「迷踪步」发球大师，曾搭档石川佳纯斩获世乒赛混双冠军。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "sora_matsushima",
+    "name": "松岛辉空",
+    "nameEn": "Sora Matsushima",
+    "aliases": [],
+    "pinyinInitials": "sm",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 2007,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "左手持拍的日本男线超级新星，釜山世乒赛上与樊振东对轰不落下风，洛杉矶周期极具潜力。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "satsuki_odo",
+    "name": "大藤沙月",
+    "nameEn": "Satsuki Odo",
+    "aliases": [],
+    "pinyinInitials": "so",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 2004,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "WTT蒙彼利埃赛爆火的超级黑马，凭借极其暴力的正反手质量连克平野美宇与张本美和夺冠。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "miyuu_kihara",
+    "name": "木原美悠",
+    "nameEn": "Miyuu Kihara",
+    "aliases": [],
+    "pinyinInitials": "mk",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 2004,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "反手生胶快攻打法，发球极具特点，比赛中总是带着标志性的治愈系笑容。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "miyu_nagasaki",
+    "name": "长崎美柚",
+    "nameEn": "Miyu Nagasaki",
+    "aliases": [],
+    "pinyinInitials": "mn",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 2002,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "左手两面暴冲打法极具威胁，颜值极高的日本女队主力，曾两次在国际赛场击败朱雨玲。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "koji_matsushita",
+    "name": "松下浩二",
+    "nameEn": "Koji Matsushita",
+    "aliases": [],
+    "pinyinInitials": "km",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 1967,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "defense",
+    "forehandLevel": "good",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "long_pips",
+    "rubberProfile": "正手反胶 / 反手长胶",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "日本一代削球宗师，防守稳如泰山，退役后成为日本乒协核心并创立了知名乒乓球品牌VICTAS。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "右手",
+      "横板",
+      "削球",
+      "正手反胶 / 反手长胶",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "hiroto_shinozuka",
+    "name": "篠塚大登",
+    "nameEn": "Hiroto Shinozuka",
+    "aliases": [],
+    "pinyinInitials": "hs",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 2003,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "左手灵巧型打法，手感极其出色，力压众多名将入选巴黎奥运会日本男团阵容。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "yukiya_uda",
+    "name": "宇田幸矢",
+    "nameEn": "Yukiya Uda",
+    "aliases": [
+      "小钢炮"
+    ],
+    "pinyinInitials": "yu",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 2001,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "左手正手杀伤力极大的「小钢炮」，曾夺得全日本单打冠军，但外战成绩常常起伏不定。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "sayaka_hirano",
+    "name": "平野早矢香",
+    "nameEn": "Sayaka Hirano",
+    "aliases": [],
+    "pinyinInitials": "sh",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "female",
+    "birthYear": 1985,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "球风凶悍、表情严厉，被日本球迷称为「乒坛鬼手佛心」，伦敦奥运女团银牌功臣。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "masataka_morizono",
+    "name": "森园政崇",
+    "nameEn": "Masataka Morizono",
+    "aliases": [],
+    "pinyinInitials": "mm",
+    "countryName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gender": "male",
+    "birthYear": 1995,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "打球像是在搏命的热血硬汉，吼叫声震耳欲聋，动作幅度极其夸张的日本男双名将。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "日本",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "ryu_seung_min",
+    "name": "柳承敏",
+    "nameEn": "Ryu Seung Min",
+    "aliases": [],
+    "pinyinInitials": "rsm",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1982,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [
+        "2004"
+      ],
+      "worlds": [],
+      "worldCup": [],
+      "total": 1
+    },
+    "signature": "极其疯狂的正手全台跑动爆冲，雅典奥运会力克王皓夺金，日式直板最后的绝对巅峰。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "shin_yubin",
+    "name": "申裕斌",
+    "nameEn": "Shin Yubin",
+    "aliases": [],
+    "pinyinInitials": "sy",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "female",
+    "birthYear": 2004,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "比赛间隙疯狂吃香蕉和饭团补充体力的「国民妹妹」，巴黎奥运混双摘铜甜笑出圈。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "jeoung_young_sik",
+    "name": "郑荣植",
+    "nameEn": "Jeoung Young Sik",
+    "aliases": [],
+    "pinyinInitials": "jys",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1992,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "长相帅气被称「大眼欧巴」，反手相持如同铜墙铁壁，里约奥运把马龙逼入绝境泪洒赛场。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "jang_woo_jin",
+    "name": "张禹珍",
+    "nameEn": "Jang Woo Jin",
+    "aliases": [],
+    "pinyinInitials": "jwj",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1995,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "正手杀伤力恐怖的「张无忌」，打球极度亢奋，曾因赛后挑衅张继科险些引发肢体冲突。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "kim_taek_soo",
+    "name": "金泽洙",
+    "nameEn": "Kim Taek Soo",
+    "aliases": [],
+    "pinyinInitials": "kts",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1970,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "拥有「天下第一推挡」和恐怖步法的无冕之王，雅典奥运场外疯狂指挥柳承敏的名帅。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "jeon_ji_hee",
+    "name": "田志希",
+    "nameEn": "Jeon Ji Hee",
+    "aliases": [],
+    "pinyinInitials": "jjh",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "female",
+    "birthYear": 1992,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "前国青队选手归化韩国，因「逆龄生长」的医美级颜值火爆全网，与申裕斌搭档女双世界第一。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "lee_sang_su",
+    "name": "李尚洙",
+    "nameEn": "Lee Sang Su",
+    "aliases": [],
+    "pinyinInitials": "lss",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1990,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "遇强则强的「巨人杀手」，前三板极其凶狠搏杀，经常在国际赛场爆冷击败国乒绝对主力。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "joo_sae_hyuk",
+    "name": "朱世赫",
+    "nameEn": "Joo Sae Hyuk",
+    "aliases": [],
+    "pinyinInitials": "jsh",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1980,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "defense",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "long_pips",
+    "rubberProfile": "正手反胶 / 反手长胶",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "「天下第一削」，正手具备极强反拉能力，巴黎世乒赛连克马琳格林卡杀入男单决赛的传奇。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "右手",
+      "横板",
+      "削球",
+      "正手反胶 / 反手长胶",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "yoo_nam_kyu",
+    "name": "刘南奎",
+    "nameEn": "Yoo Nam Kyu",
+    "aliases": [],
+    "pinyinInitials": "ynk",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1968,
+    "hand": "left",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "汉城奥运会（乒乓球首次入奥）的男单金牌得主，左手日式直板打法极为凶悍灵动。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "左手",
+      "直板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "seo_hyo_won",
+    "name": "徐孝元",
+    "nameEn": "Seo Hyo Won",
+    "aliases": [],
+    "pinyinInitials": "shw",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "female",
+    "birthYear": 1987,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "defense",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "long_pips",
+    "rubberProfile": "正手反胶 / 反手长胶",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "公认的韩国乒坛第一美女，削球打法轻盈优雅，曾多次因为高颜值登顶韩网热搜。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "女",
+      "右手",
+      "横板",
+      "削球",
+      "正手反胶 / 反手长胶",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "lim_jong_hoon",
+    "name": "林钟勋",
+    "nameEn": "Lim Jong Hoon",
+    "aliases": [],
+    "pinyinInitials": "ljh",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1997,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "左手反手暴拧极具威胁，为了免除兵役在巴黎奥运混双赛场拼至癫狂，最终如愿摘铜。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "oh_sang_eun",
+    "name": "吴尚垠",
+    "nameEn": "Oh Sang Eun",
+    "aliases": [],
+    "pinyinInitials": "ose",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1977,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "身高超过1米86的韩国大汉，两面相持实力均衡，当年与柳承敏、朱世赫组成男团三剑客。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "cho_dae_seong",
+    "name": "赵大成",
+    "nameEn": "Cho Dae Seong",
+    "aliases": [],
+    "pinyinInitials": "cds",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 2002,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "韩国新生代左手大炮，曾在WTT果阿球星赛爆大冷淘汰樊振东，前三板拼抢极为凶狠。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "an_jae_hyun",
+    "name": "安宰贤",
+    "nameEn": "An Jae Hyun",
+    "aliases": [],
+    "pinyinInitials": "ajh",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "male",
+    "birthYear": 1999,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "退台放高球和游击战的好手，曾在布达佩斯世乒赛以黑马之姿一路杀入男单四强。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "choi_hyo_joo",
+    "name": "崔孝珠",
+    "nameEn": "Choi Hyo Joo",
+    "aliases": [],
+    "pinyinInitials": "chj",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "female",
+    "birthYear": 1998,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "同样是来自中国的归化选手，左手两面弧圈打法，长期占据韩国女队主力位置之一。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "hyun_jung_hwa",
+    "name": "玄静和",
+    "nameEn": "Hyun Jung Hwa",
+    "aliases": [],
+    "pinyinInitials": "hjh",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "female",
+    "birthYear": 1969,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "1993"
+      ],
+      "worldCup": [],
+      "total": 1
+    },
+    "signature": "韩国女乒绝对的传奇人物，大满贯得主，曾促成朝韩联队并在世乒赛斩落如日中天的邓亚萍。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "女",
+      "右手",
+      "直板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "yang_hae_un",
+    "name": "梁夏银",
+    "nameEn": "Yang Hae Un",
+    "aliases": [],
+    "pinyinInitials": "yhu",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "female",
+    "birthYear": 1994,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "苏州世乒赛上的幸运儿，跨国搭档许昕夺得混双金牌，这也是韩国女乒近年罕见的世界冠军。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "lee_eun_hye",
+    "name": "李恩惠",
+    "nameEn": "Lee Eun Hye",
+    "aliases": [],
+    "pinyinInitials": "leh",
+    "countryName": "韩国",
+    "flagEmoji": "🇰🇷",
+    "gender": "female",
+    "birthYear": 1995,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": false,
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "出生于中国内蒙古的归化球员，大器晚成，在巴黎奥运女团铜牌战中立下汗马功劳。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "韩国",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "timo_boll",
+    "name": "波尔",
+    "nameEn": "Timo Boll",
+    "aliases": [],
+    "pinyinInitials": "tb",
+    "countryName": "德国",
+    "flagEmoji": "🇩🇪",
+    "gender": "male",
+    "birthYear": 1981,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 2,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "2002",
+        "2005"
+      ],
+      "total": 2
+    },
+    "signature": "欧洲常青树，左手拉弧圈优雅至极，抗击国乒几代人的德国绅士，全网尊称「波叔」。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "德国",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "dimitrij_ovtcharov",
+    "name": "奥恰洛夫",
+    "nameEn": "Dimitrij Ovtcharov",
+    "aliases": [],
+    "pinyinInitials": "do",
+    "countryName": "德国",
+    "flagEmoji": "🇩🇪",
+    "gender": "male",
+    "birthYear": 1988,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "2017"
+      ],
+      "total": 1
+    },
+    "signature": "标志性「潜水艇」下蹲发球，反手能力深不可测的欧洲重炮，与马龙相爱相杀的大男主。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "德国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "truls_moregardh",
+    "name": "莫雷加德",
+    "nameEn": "Truls Moregardh",
+    "aliases": [],
+    "pinyinInitials": "tm",
+    "countryName": "瑞典",
+    "flagEmoji": "🇸🇪",
+    "gender": "male",
+    "birthYear": 2002,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "标志性「六边形」底板使用者，手感极具想象力，巴黎奥运连克王楚钦与小胖会师决赛。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "瑞典",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "felix_lebrun",
+    "name": "F·勒布伦",
+    "nameEn": "Felix Lebrun",
+    "aliases": [],
+    "pinyinInitials": "fl",
+    "countryName": "法国",
+    "flagEmoji": "🇫🇷",
+    "gender": "male",
+    "birthYear": 2006,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "极具天赋的欧洲直板奇才，发球快节奏如开挂，人称「小勒布伦」，巴黎奥运男单摘铜。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "法国",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "alexis_lebrun",
+    "name": "A·勒布伦",
+    "nameEn": "Alexis Lebrun",
+    "aliases": [],
+    "pinyinInitials": "al",
+    "countryName": "法国",
+    "flagEmoji": "🇫🇷",
+    "gender": "male",
+    "birthYear": 2003,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "戴着黑框眼镜的「大勒布伦」，球风极其狂野暴躁，曾在比赛中多次爆冷击败樊振东。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "法国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "simon_gauzy",
+    "name": "西蒙·高茨",
+    "nameEn": "Simon Gauzy",
+    "aliases": [],
+    "pinyinInitials": "sg",
+    "countryName": "法国",
+    "flagEmoji": "🇫🇷",
+    "gender": "male",
+    "birthYear": 1994,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "欧洲乒坛的「神仙球制造机」，极其擅长中远台放高球与背后击球，打法极具浪漫艺术气息。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "法国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "jorgen_persson",
+    "name": "佩尔森",
+    "nameEn": "Jorgen Persson",
+    "aliases": [],
+    "pinyinInitials": "jp",
+    "countryName": "瑞典",
+    "flagEmoji": "🇸🇪",
+    "gender": "male",
+    "birthYear": 1966,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "1989"
+      ],
+      "worldCup": [],
+      "total": 1
+    },
+    "signature": "老一代球迷深爱的「老佩」，反手相持滴水不漏，与老瓦组成横扫乒坛的瑞典双子星。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "瑞典",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "mattias_falck",
+    "name": "法尔克",
+    "nameEn": "Mattias Falck",
+    "aliases": [],
+    "pinyinInitials": "mf",
+    "countryName": "瑞典",
+    "flagEmoji": "🇸🇪",
+    "gender": "male",
+    "birthYear": 1991,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "short_pips",
+    "backhandRubber": "inverted",
+    "rubberProfile": "正手正胶 / 反手反胶",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "极为罕见的横板正手正胶打法，人高马大的「大叔」，布达佩斯世乒赛黑马摘银。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "瑞典",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "正手正胶 / 反手反胶"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "dang_qiu",
+    "name": "邱党",
+    "nameEn": "Dang Qiu",
+    "aliases": [],
+    "pinyinInitials": "dq",
+    "countryName": "德国",
+    "flagEmoji": "🇩🇪",
+    "gender": "male",
+    "birthYear": 1996,
+    "hand": "right",
+    "grip": "penhold",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "现役欧洲极度罕见的直板双面反胶打法，欧洲冠军，父亲是日本名将水谷隼的恩师。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "德国",
+      "男",
+      "右手",
+      "直板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "patrick_franziska",
+    "name": "弗朗西斯卡",
+    "nameEn": "Patrick Franziska",
+    "aliases": [],
+    "pinyinInitials": "pf",
+    "countryName": "德国",
+    "flagEmoji": "🇩🇪",
+    "gender": "male",
+    "birthYear": 1992,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "德国三剑客之一的「弗神」，身材高大力量感极强，反手暴撕曾多次突破国乒防线。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "德国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "jorg_rosskopf",
+    "name": "罗斯科夫",
+    "nameEn": "Jorg Rosskopf",
+    "aliases": [],
+    "pinyinInitials": "jr",
+    "countryName": "德国",
+    "flagEmoji": "🇩🇪",
+    "gender": "male",
+    "birthYear": 1969,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "good",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "1998"
+      ],
+      "total": 1
+    },
+    "signature": "德国乒乓的先驱，反手技术炉火纯青的「反手王」，现任德国男队运筹帷幄的功勋主帅。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "德国",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "anton_kallberg",
+    "name": "卡尔伯格",
+    "nameEn": "Anton Kallberg",
+    "aliases": [],
+    "pinyinInitials": "ak",
+    "countryName": "瑞典",
+    "flagEmoji": "🇸🇪",
+    "gender": "male",
+    "birthYear": 1997,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "正手击球极具爆发力，德甲豪门杜塞尔多夫的绝对主力，法兰克福赛曾爆冷淘汰王楚钦。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "瑞典",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "kristian_karlsson",
+    "name": "卡尔松",
+    "nameEn": "Kristian Karlsson",
+    "aliases": [],
+    "pinyinInitials": "kk",
+    "countryName": "瑞典",
+    "flagEmoji": "🇸🇪",
+    "gender": "male",
+    "birthYear": 1991,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "瑞典男团定海神针，休斯敦世乒赛携手法尔克双打夺冠，左手打法势大力沉且极具韧性。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "瑞典",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "jean_philippe_gatien",
+    "name": "盖亭",
+    "nameEn": "Jean Philippe Gatien",
+    "aliases": [],
+    "pinyinInitials": "jpg",
+    "countryName": "法国",
+    "flagEmoji": "🇫🇷",
+    "gender": "male",
+    "birthYear": 1968,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "good",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 3,
+    "singlesMajorTitles": {
+      "olympic": [
+        "1992"
+      ],
+      "worlds": [
+        "1993"
+      ],
+      "worldCup": [
+        "1991"
+      ],
+      "total": 3
+    },
+    "signature": "90年代初期的不讲理弧圈球大师，左手全台跑动暴冲，法国历史上唯一的世乒赛男单冠军。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "法国",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "han_ying",
+    "name": "韩莹",
+    "nameEn": "Han Ying",
+    "aliases": [],
+    "pinyinInitials": "hy",
+    "countryName": "德国",
+    "flagEmoji": "🇩🇪",
+    "gender": "female",
+    "birthYear": 1983,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "defense",
+    "forehandLevel": "good",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "long_pips",
+    "rubberProfile": "正手反胶 / 反手长胶",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "海外代表性的华裔铁削，防守极其稳健顽强，多次在关键赛事中把国乒主力逼出冷汗。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "德国",
+      "女",
+      "右手",
+      "横板",
+      "削球",
+      "正手反胶 / 反手长胶"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "nina_mittelham",
+    "name": "米特兰姆",
+    "nameEn": "Nina Mittelham",
+    "aliases": [],
+    "pinyinInitials": "nm",
+    "countryName": "德国",
+    "flagEmoji": "🇩🇪",
+    "gender": "female",
+    "birthYear": 1996,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "德国本土女乒领军人物，球风硬朗，巴黎奥运女单赛场因伤痛哭坚持完赛令人动容。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "德国",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "jia_nan_yuan",
+    "name": "袁嘉楠",
+    "nameEn": "Jia Nan Yuan",
+    "aliases": [],
+    "pinyinInitials": "jny",
+    "countryName": "法国",
+    "flagEmoji": "🇫🇷",
+    "gender": "female",
+    "birthYear": 1985,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "good",
+    "forehandRubber": "short_pips",
+    "backhandRubber": "inverted",
+    "rubberProfile": "正手正胶 / 反手反胶",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "代表法国出战的海外华裔，标志性超高抛发球极具迷惑性，正手正胶弹击杀伤力极大。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "法国",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "正手正胶 / 反手反胶"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "prithika_pavade",
+    "name": "帕瓦德",
+    "nameEn": "Prithika Pavade",
+    "aliases": [],
+    "pinyinInitials": "pp",
+    "countryName": "法国",
+    "flagEmoji": "🇫🇷",
+    "gender": "female",
+    "birthYear": 2004,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "unknown",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "法国女乒本土新星，左手打法灵动犀利，巴黎奥运周期上升势头极为迅猛的混血小将。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "法国",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "hugo_calderano",
+    "name": "雨果",
+    "nameEn": "Hugo Calderano",
+    "aliases": [],
+    "pinyinInitials": "hc",
+    "countryName": "巴西",
+    "flagEmoji": "🇧🇷",
+    "gender": "male",
+    "birthYear": 1996,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "2025"
+      ],
+      "total": 1
+    },
+    "signature": "巴西一哥，反手高高跃起的暴撕极具视觉冲击力，打破亚欧垄断的美洲最强男单。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "巴西",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "vladimir_samsonov",
+    "name": "萨姆索诺夫",
+    "nameEn": "Vladimir Samsonov",
+    "aliases": [],
+    "pinyinInitials": "vs",
+    "countryName": "白俄罗斯",
+    "flagEmoji": "🇧🇾",
+    "gender": "male",
+    "birthYear": 1976,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 3,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "1999",
+        "2001",
+        "2003"
+      ],
+      "total": 3
+    },
+    "signature": "乒坛太极宗师「老萨」，防守密不透风，以极致绅士风度横跨几代国乒的传奇。",
+    "difficultyDraft": "beginner",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "白俄罗斯",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "quadri_aruna",
+    "name": "阿鲁纳",
+    "nameEn": "Quadri Aruna",
+    "aliases": [],
+    "pinyinInitials": "qa",
+    "countryName": "尼日利亚",
+    "flagEmoji": "🇳🇬",
+    "gender": "male",
+    "birthYear": 1988,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "非洲老大哥，标志性绿色球衣和绿色胶皮，纯靠惊人身体素质抡出的正手大刀势不可挡。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "尼日利亚",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "werner_schlager",
+    "name": "施拉格",
+    "nameEn": "Werner Schlager",
+    "aliases": [],
+    "pinyinInitials": "ws",
+    "countryName": "奥地利",
+    "flagEmoji": "🇦🇹",
+    "gender": "male",
+    "birthYear": 1972,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 1,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [
+        "2003"
+      ],
+      "worldCup": [],
+      "total": 1
+    },
+    "signature": "巴黎世乒赛连斩王励勤、孔令辉夺冠的奥地利狂人，发球诡异莫测，打法极其不讲理。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "奥地利",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "bernadette_szocs",
+    "name": "斯佐科斯",
+    "nameEn": "Bernadette Szocs",
+    "aliases": [],
+    "pinyinInitials": "bs",
+    "countryName": "罗马尼亚",
+    "flagEmoji": "🇷🇴",
+    "gender": "female",
+    "birthYear": 1995,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "罗马尼亚选美级名将，标志性粉色胶皮，以极度泼辣的球风两次爆冷击败陈梦出圈。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "罗马尼亚",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "darko_jorgic",
+    "name": "达科",
+    "nameEn": "Darko Jorgic",
+    "aliases": [],
+    "pinyinInitials": "dj",
+    "countryName": "斯洛文尼亚",
+    "flagEmoji": "🇸🇮",
+    "gender": "male",
+    "birthYear": 1998,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "欧洲杯男单霸主，极其依仗反手的重炮手，反手暴力拧拉和相持实力堪称世界一绝。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "斯洛文尼亚",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "adriana_diaz",
+    "name": "迪亚兹",
+    "nameEn": "Adriana Diaz",
+    "aliases": [],
+    "pinyinInitials": "ad",
+    "countryName": "波多黎各",
+    "flagEmoji": "🇵🇷",
+    "gender": "female",
+    "birthYear": 2000,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "波多黎各的国民偶像，拥有极佳的球感和创意击球，与孙颖莎在场下是神仙闺蜜。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "波多黎各",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "liam_pitchford",
+    "name": "皮切福德",
+    "nameEn": "Liam Pitchford",
+    "aliases": [],
+    "pinyinInitials": "lp",
+    "countryName": "英国",
+    "flagEmoji": "🇬🇧",
+    "gender": "male",
+    "birthYear": 1993,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "英国名将，反手有着如弹弓一般的独特发力动作，极其突然，曾两次在国际赛场击败马龙。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "英国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "zoran_primorac",
+    "name": "普里莫拉茨",
+    "nameEn": "Zoran Primorac",
+    "aliases": [],
+    "pinyinInitials": "zp",
+    "countryName": "克罗地亚",
+    "flagEmoji": "🇭🇷",
+    "gender": "male",
+    "birthYear": 1969,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 2,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [
+        "1993",
+        "1994"
+      ],
+      "total": 2
+    },
+    "signature": "七战奥运的克罗地亚常青树，与老瓦、盖亭并称欧洲三剑客，其同名底板也是一代经典。",
+    "difficultyDraft": "advanced",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "克罗地亚",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "三大赛单打冠军",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "kalinikos_kreanga",
+    "name": "格林卡",
+    "nameEn": "Kalinikos Kreanga",
+    "aliases": [],
+    "pinyinInitials": "kk",
+    "countryName": "希腊",
+    "flagEmoji": "🇬🇷",
+    "gender": "male",
+    "birthYear": 1972,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "retired",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "拥有乒乓球史上最暴力的反手，经常全台双脚离地起跳爆冲，打出无数震撼十佳球。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "希腊",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "退役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "omar_assar",
+    "name": "阿萨尔",
+    "nameEn": "Omar Assar",
+    "aliases": [],
+    "pinyinInitials": "oa",
+    "countryName": "埃及",
+    "flagEmoji": "🇪🇬",
+    "gender": "male",
+    "birthYear": 1991,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "elite",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "埃及巨汉，身材极高但防守相持极具耐心，德班世乒赛和巴黎奥运会接连爆冷闯入八强。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "埃及",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "lily_zhang",
+    "name": "张安",
+    "nameEn": "Lily Zhang",
+    "aliases": [],
+    "pinyinInitials": "lz",
+    "countryName": "美国",
+    "flagEmoji": "🇺🇸",
+    "gender": "female",
+    "birthYear": 1996,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "六战奥运的华裔美国一姐，曾随队在中美乒乓外交纪念活动中搭档林高远出战混双夺牌。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "美国",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "marcos_freitas",
+    "name": "弗雷塔斯",
+    "nameEn": "Marcos Freitas",
+    "aliases": [],
+    "pinyinInitials": "mf",
+    "countryName": "葡萄牙",
+    "flagEmoji": "🇵🇹",
+    "gender": "male",
+    "birthYear": 1988,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "葡萄牙左手名将，中远台放高球和相持韧性极佳，曾率队历史性斩获欧锦赛男团冠军。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "葡萄牙",
+      "男",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "sofia_polcanova",
+    "name": "波尔卡诺娃",
+    "nameEn": "Sofia Polcanova",
+    "aliases": [],
+    "pinyinInitials": "sp",
+    "countryName": "奥地利",
+    "flagEmoji": "🇦🇹",
+    "gender": "female",
+    "birthYear": 1994,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "身高超过1米8的欧洲女单冠军，左手两面护台面积惊人，近年来多次登顶欧锦赛最高领奖台。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "奥地利",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "ruwen_filus",
+    "name": "菲卢斯",
+    "nameEn": "Ruwen Filus",
+    "aliases": [],
+    "pinyinInitials": "rf",
+    "countryName": "德国",
+    "flagEmoji": "🇩🇪",
+    "gender": "male",
+    "birthYear": 1988,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "defense",
+    "forehandLevel": "excellent",
+    "backhandLevel": "elite",
+    "forehandRubber": "inverted",
+    "backhandRubber": "long_pips",
+    "rubberProfile": "正手反胶 / 反手长胶",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "被誉为「削球舞者」，正手反胶反手长胶，经常在绝境中上演神仙级削中反攻的德国大叔。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "德国",
+      "男",
+      "右手",
+      "横板",
+      "削球",
+      "正手反胶 / 反手长胶",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "bruna_takahashi",
+    "name": "高桥布鲁娜",
+    "nameEn": "Bruna Takahashi",
+    "aliases": [],
+    "pinyinInitials": "bt",
+    "countryName": "巴西",
+    "flagEmoji": "🇧🇷",
+    "gender": "female",
+    "birthYear": 2000,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "巴西女乒一姐，打法极具南美狂野气息，也是名将雨果的现任女友，名副其实的神仙眷侣。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "巴西",
+      "女",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "kanak_jha",
+    "name": "卡纳克",
+    "nameEn": "Kanak Jha",
+    "aliases": [],
+    "pinyinInitials": "kj",
+    "countryName": "美国",
+    "flagEmoji": "🇺🇸",
+    "gender": "male",
+    "birthYear": 2000,
+    "hand": "right",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "美国乒坛天才，正手极具杀伤力，曾因错过兴奋剂飞行药检被禁赛，复出后依然强悍。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "美国",
+      "男",
+      "右手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  },
+  {
+    "id": "elizabeta_samara",
+    "name": "萨马拉",
+    "nameEn": "Elizabeta Samara",
+    "aliases": [],
+    "pinyinInitials": "es",
+    "countryName": "罗马尼亚",
+    "flagEmoji": "🇷🇴",
+    "gender": "female",
+    "birthYear": 1989,
+    "hand": "left",
+    "grip": "shakehand",
+    "playStyle": "attack",
+    "forehandLevel": "excellent",
+    "backhandLevel": "excellent",
+    "forehandRubber": "inverted",
+    "backhandRubber": "inverted",
+    "rubberProfile": "双反",
+    "activeStatus": "active",
+    "worldNo1": "unknown",
+    "majorSinglesTitlesTotal": 0,
+    "singlesMajorTitles": {
+      "olympic": [],
+      "worlds": [],
+      "worldCup": [],
+      "total": 0
+    },
+    "signature": "罗马尼亚左手老将，曾在世界杯女单决赛中与刘诗雯缠斗摘银，欧洲女乒的骨灰级战力。",
+    "difficultyDraft": "master",
+    "difficultyStatus": "auto_draft_needs_review",
+    "tags": [
+      "罗马尼亚",
+      "女",
+      "左手",
+      "横板",
+      "进攻",
+      "双反",
+      "现役"
+    ],
+    "verification": {
+      "level": "partial",
+      "sources": [],
+      "lastVerifiedAt": "2026-05-30",
+      "notes": "由《选手规范数据.xlsx》初始导入；尚未补充逐字段来源，需人工核验。"
+    },
+    "rawSource": {
+      "sourceFile": "选手规范数据.xlsx",
+      "sourceSheet": "国乒选手数据明细"
+    }
+  }
+]

@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg-primary: #030712;       /* slate-950 - deep charcoal dark */
+  --bg-secondary: #0f172a;     /* slate-900 - card backdrop */
+  --bg-tertiary: #1e293b;      /* slate-800 - hovering elements */
+  --border-color: #1f2937;     /* slate-800 - borders */
+  --border-color-muted: #374151; /* slate-700 - lighter borders */
+  
+  --text-primary: #f3f4f6;     /* slate-100 - clear white reading text */
+  --text-secondary: #9ca3af;   /* slate-400 - detailed instructions */
+  --text-muted: #6b7280;       /* slate-500 - minor labels */
+  
+  /* Status Feedbacks (Optimized for accessibility) */
+  --feedback-correct-bg: rgba(6, 78, 59, 0.75); /* emerald-950/75 */
+  --feedback-correct-text: #34d399;            /* emerald-350 */
+  --feedback-higher-bg: rgba(136, 19, 55, 0.5);  /* rose-950/50 */
+  --feedback-higher-text: #fca5a5;              /* rose-300 */
+  --feedback-lower-bg: rgba(120, 53, 4, 0.5);    /* amber-950/50 */
+  --feedback-lower-text: #fcd34d;               /* amber-300 */
+}
+
+/* Accessible Light Mode Colors with premium contrast ratio */
+.light {
+  --bg-primary: #f1f5f9;       /* slate-100 - beautiful cool-gray background, making white cards stand out */
+  --bg-secondary: #ffffff;     /* white - crisp card backgrounds */
+  --bg-tertiary: #e2e8f0;      /* slate-200 - soft elements and selected states */
+  --border-color: #cbd5e1;     /* slate-300 - clear high-contrast crisp borders */
+  --border-color-muted: #cbd5e1; /* slate-300 - distinct separators */
+  
+  --text-primary: #0f172a;     /* slate-900 - strong deep charcoal text for perfect legibility */
+  --text-secondary: #334155;   /* slate-700 - highly readable subheading detail text */
+  --text-muted: #475569;       /* slate-600 - rich slate grey meeting WCAG AA standards */
+  
+  /* Light Mode Specific Highlight States with high-contrast text ratios conforming to WCAG standards */
+  --feedback-correct-bg: #d1fae5;              /* emerald-100 */
+  --feedback-correct-text: #065f46;            /* emerald-800 - very readable dark green */
+  --feedback-higher-bg: #ffe4e6;               /* rose-100 */
+  --feedback-higher-text: #9f1239;             /* rose-800 - precise dark pink code */
+  --feedback-lower-bg: #fef3c7;                /* amber-100 */
+  --feedback-lower-text: #92400e;              /* amber-800 - rich deep orange-brown */
+}
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  
+  /* Redefine core colours dynamically based on CSS theme variables! */
+  --color-slate-955: var(--bg-primary);
+  --color-slate-950: var(--bg-primary);
+  --color-slate-900: var(--bg-secondary);
+  --color-slate-855: var(--bg-tertiary);
+  --color-slate-850: var(--bg-tertiary);
+  --color-slate-805: var(--border-color);
+  --color-slate-800: var(--border-color);
+  --color-slate-755: var(--border-color-muted);
+  --color-slate-750: var(--border-color-muted);
+  --color-slate-705: var(--border-color-muted);
+  --color-slate-700: var(--border-color-muted);
+  
+  --color-slate-100: var(--text-primary);
+  --color-slate-105: var(--text-primary);
+  --color-slate-200: var(--text-primary);
+  --color-slate-205: var(--text-primary);
+  --color-slate-300: var(--text-primary);
+  
+  --color-slate-405: var(--text-secondary);
+  --color-slate-400: var(--text-secondary);
+  --color-slate-450: var(--text-secondary);
+  --color-slate-455: var(--text-secondary);
+  --color-slate-505: var(--text-muted);
+  --color-slate-500: var(--text-muted);
+  --color-slate-550: var(--text-muted);
+  --color-slate-555: var(--text-muted);
+  --color-slate-605: var(--text-muted);
+  
+  /* Feedback Overlays mapped directly to adaptive variables */
+  --color-emerald-950: var(--feedback-correct-bg);
+  --color-emerald-300: var(--feedback-correct-text);
+  
+  --color-rose-955: var(--feedback-higher-bg);
+  --color-rose-950: var(--feedback-higher-bg);
+  --color-rose-300: var(--feedback-higher-text);
+  
+  --color-amber-955: var(--feedback-lower-bg);
+  --color-amber-950: var(--feedback-lower-bg);
+  --color-amber-300: var(--feedback-lower-text);
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    transition: background-color 0.25s ease, color 0.2s ease;
+  }
+}
+
+/* Custom gorgeous animations for table rows and buttons */
+@keyframes row-reveal {
+  0% {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-reveal {
+  animation: row-reveal 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Custom ping animation */
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.5);
+  }
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 8px rgba(99, 102, 241, 0);
+  }
+  100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(99, 102, 241, 0);
+  }
+}
+
+.glow-btn-ping {
+  animation: pulse-ring 2s infinite;
+}
+
+/* Animated diagonal holographic reflection shimmer */
+@keyframes shine {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-shine {
+  animation: shine 4.5s ease-in-out infinite;
+}
+
+/* Card hovering breathing neon glow */
+@keyframes neon-glowing {
+  0%, 100% {
+    border-color: rgba(99, 102, 241, 0.3);
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.15);
+  }
+  50% {
+    border-color: rgba(99, 102, 241, 0.65);
+    box-shadow: 0 0 35px rgba(99, 102, 241, 0.38);
+  }
+}
+
+.active-game-summary {
+  animation: neon-glowing 3s ease-in-out infinite;
+}
+
+/* 横向滚动容器 - 桌面端滚轮和拖移均生效 */
+.scroll-table-x {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  scroll-behavior: smooth;
+}
+
+/* 球路动画 */
+@keyframes ball-fly {
+  0% { transform: translate(0, 0) scale(1); opacity: 1; }
+  20% { opacity: 1; }
+  50% { transform: translate(var(--ball-x, 80px), var(--ball-y, -60px)) scale(0.6); opacity: 0.8; }
+  100% { transform: translate(var(--ball-x-end, 160px), var(--ball-y-end, -120px)) scale(0.3); opacity: 0; }
+}
+
+.ball-fly {
+  animation: ball-fly 0.45s cubic-bezier(0.2, 0.8, 0.4, 1) forwards;
+  pointer-events: none;
+}
+
+/* 手机端调大基础字号，等比放大 rem 单位 */
+@media (max-width: 480px) {
+  html {
+    font-size: 17px;
+  }
+}

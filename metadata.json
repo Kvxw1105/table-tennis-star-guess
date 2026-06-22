@@ -1,0 +1,6 @@
+{
+  "name": "开局一个球星",
+  "description": "《开局一个球星》体育球星猜谜系列游戏，首发版《开局一个乒乓球星》。通过11项赛事、打法和品牌参数博弈排除锁定每日神秘球星，支持非剧透复制战报与特制战书链接挑战好友。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
