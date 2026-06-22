@@ -635,6 +635,14 @@ export default function App() {
   // 连击反馈
   const [comboCount, setComboCount] = useState(0);
   const [showCombo, setShowCombo] = useState(false);
+  // 错误猜测抖动
+  const [shakeSearch, setShakeSearch] = useState(0);
+  // 里程碑爆发
+  const [milestoneTrigger, setMilestoneTrigger] = useState(0);
+  // 上一轮锁定数，用于检测里程碑
+  const prevLockedRef = useRef(0);
+  // 行逐格动画 — 每行一个递增 key 保证每次重新触发 stagger
+  const [rowAnimKey, setRowAnimKey] = useState(0);
 
   // 球路动画
   const [ballAnimKey, setBallAnimKey] = useState(0);
@@ -982,6 +990,8 @@ export default function App() {
     setSearchTerm('');
     setSuggestions([]);
 
+    const won = currentGuessComparison.isCorrect;
+
     // 连击反馈：统计本轮新锁定的属性数
     const newlyLockedCount = attributeConfig.filter(cfg => {
       const isCurrentCorrect = (currentGuessComparison.feedbacks as any)[cfg.key]?.status === 'CORRECT';
@@ -999,10 +1009,30 @@ export default function App() {
       playSound('guess_feedback', soundEnabled);
     }
 
+    // 错误猜测 → 搜索框抖动
+    if (!won && !currentGuessComparison.isCorrect) {
+      setShakeSearch(prev => prev + 1);
+    }
+
+    // 递增行动画 key，让新行触发 stagger
+    setRowAnimKey(prev => prev + 1);
+
+    // 里程碑检测：锁定数达到 3/6/9 时爆发特效
+    const currentLocked = attributeConfig.filter(cfg =>
+      [...nextGuesses].some(g => (g.feedbacks as any)[cfg.key]?.status === 'CORRECT')
+    ).length;
+    const prevLocked = prevLockedRef.current;
+    prevLockedRef.current = currentLocked;
+    if ((currentLocked >= 3 && prevLocked < 3) ||
+        (currentLocked >= 6 && prevLocked < 6) ||
+        (currentLocked >= 9 && prevLocked < 9)) {
+      setMilestoneTrigger(prev => prev + 1);
+      setTimeout(() => setMilestoneTrigger(0), 900);
+    }
+
     // 球路动画触发器
     setBallAnimKey(prev => prev + 1);
 
-    const won = currentGuessComparison.isCorrect;
     
     if (won || nextGuessedIds.length >= 100) { // Practically unlimited but cap at 100
       setIsGameOver(true);
@@ -1255,7 +1285,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col md:px-4 selection:bg-indigo-600/30 transition-colors duration-300 relative botw-scanlines">
+    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col md:px-4 selection:bg-indigo-600/30 transition-colors duration-300 relative">
       {/* Texture Background Grid Overlay */}
       <div className="absolute inset-0 overflow-x-hidden pointer-events-none z-0">
         <div className="absolute inset-0 bg-transparent bg-[radial-gradient(#94a3b8_1px,transparent_1px)] dark:bg-[radial-gradient(#334155_1px,transparent_1px)] [background-size:24px_24px] opacity-[0.04]" />
@@ -1442,7 +1472,7 @@ export default function App() {
           {playView === 'lobby' ? (
             <>
               {/* Lobby main visual entrance - Tab Switcher Container */}
-              <div className="w-full botw-card rounded-lg p-5 sm:p-7 relative overflow-hidden transition-all duration-300">
+              <div className="w-full bg-white dark:bg-slate-900 rounded-3xl p-5 sm:p-7 shadow-[0_4px_12px_rgba(0,0,0,0.08)] dark:shadow-[0_4px_24px_rgba(0,0,0,0.35)] briefs border border-slate-100 dark:border-slate-805/40 relative overflow-hidden transition-all duration-300">
                 {/* Background decorative spotlights */}
                 <div className="absolute top-0 right-0 h-48 w-48 bg-gradient-to-bl from-indigo-500/10 to-transparent filter blur-3xl rounded-full pointer-events-none" />
                 <div className="absolute bottom-0 left-0 h-48 w-48 bg-gradient-to-tr from-purple-500/10 to-transparent filter blur-3xl rounded-full pointer-events-none" />
@@ -1565,7 +1595,7 @@ export default function App() {
                       onClick={() => {
                         setupDailyChallenge(dailyGender);
                       }}
-                      className="w-full py-3.5 bg-indigo-700 hover:bg-indigo-850 dark:bg-indigo-600 dark:hover:bg-indigo-700 text-white font-extrabold rounded-2xl text-xs shadow-md shadow-indigo-700/15 hover:shadow-indigo-700/25 active:scale-[0.98] transition-all cursor-pointer flex items-center justify-center gap-2 font-display"
+                      className="w-full py-3.5 bg-indigo-700 hover:bg-indigo-850 dark:bg-indigo-600 dark:hover:bg-indigo-700 text-white font-extrabold rounded-2xl text-xs shadow-md shadow-indigo-700/15 hover:shadow-indigo-700/25 active:scale-[0.98] transition-all cursor-pointer flex items-center justify-center gap-2 font-display hover-lift"
                     >
                       <span>攻入今日对决竞技场</span>
                       <ArrowRight className="w-3.5 h-3.5 animate-pulse" />
@@ -2027,10 +2057,10 @@ export default function App() {
               </div>
 
               <div className={`relative flex items-center border rounded-2xl bg-white dark:bg-slate-950/70 transition-all duration-300 ease-out p-1 overflow-hidden select-none ${
-                isSearchFocused 
-                  ? 'border-indigo-500 ring-2 ring-indigo-500/20 shadow-[0_0_20px_rgba(99,102,241,0.15)] bg-white dark:bg-slate-950 scale-[1.005]' 
+                isSearchFocused
+                  ? 'border-indigo-500 ring-2 ring-indigo-500/20 shadow-[0_0_20px_rgba(99,102,241,0.15)] bg-white dark:bg-slate-950 scale-[1.005]'
                   : 'border-slate-805 dark:border-slate-800'
-              }`}>
+              } ${shakeSearch > 0 ? 'animate-shake' : ''}`}>
                 <Search className={`w-5 h-5 mx-3.5 transition-colors ${isSearchFocused ? 'text-indigo-500' : 'text-slate-450'}`} />
                 <input
                   id="star-search-input"
@@ -2122,7 +2152,7 @@ export default function App() {
                         searchInputRef.current?.focus();
                       }}
                       onMouseEnter={() => setActiveSuggestionIndex(idx)}
-                      className={`w-full text-left px-5 py-3 flex items-center justify-between transition-all border-b border-slate-850/50 cursor-pointer ${
+                      className={`w-full text-left px-5 py-3 flex items-center justify-between transition-all border-b border-slate-850/50 cursor-pointer hover-lift $ hover-lift{
                         activeSuggestionIndex === idx 
                           ? 'bg-indigo-950/95 border-indigo-500/40 text-indigo-400' 
                           : 'hover:bg-slate-800 text-slate-300'
@@ -2534,7 +2564,7 @@ export default function App() {
                   </thead>
                   <tbody className="divide-y divide-slate-800/40 text-xs font-semibold">
                     {guesses.map((item, idx) => (
-                      <tr key={idx} className="hover:bg-slate-900/20 animate-reveal">
+                      <tr key={idx === 0 ? `${rowAnimKey}-${idx}` : idx} className={`hover:bg-slate-900/20 animate-reveal ${idx === 0 ? 'stagger-row' : ''}`}>
                         
                         {/* Athlete Name sticky on horizontal scroll */}
                         <td className="py-3 px-3 lg:px-4 font-bold lg:sticky lg:left-0 bg-slate-950/95 lg:border-r lg:border-slate-800 whitespace-nowrap text-slate-100">
@@ -2551,7 +2581,7 @@ export default function App() {
                             initial={highlightedAttribute === 'sex' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'sex' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'sex' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.sex.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.sex.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'sex'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2568,7 +2598,7 @@ export default function App() {
                             initial={highlightedAttribute === 'association' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'association' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'association' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.association.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.association.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'association'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2585,7 +2615,7 @@ export default function App() {
                             initial={highlightedAttribute === 'birthYear' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'birthYear' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'birthYear' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.birthYear.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.birthYear.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'birthYear'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2604,7 +2634,7 @@ export default function App() {
                             initial={highlightedAttribute === 'activeStatus' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'activeStatus' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'activeStatus' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.activeStatus.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.activeStatus.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'activeStatus'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2621,7 +2651,7 @@ export default function App() {
                             initial={highlightedAttribute === 'hand' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'hand' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'hand' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.hand.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.hand.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'hand'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2638,7 +2668,7 @@ export default function App() {
                             initial={highlightedAttribute === 'grip' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'grip' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'grip' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.grip.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.grip.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'grip'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2655,7 +2685,7 @@ export default function App() {
                             initial={highlightedAttribute === 'playStyle' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'playStyle' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'playStyle' ? idx * 0.03 : 0 }}
-                            className={`py-3 px-1 rounded-xl text-[11px] leading-snug flex items-center justify-center gap-1 md:break-all max-w-[95px] mx-auto transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.playStyle.status)} ${
+                            className={`py-3 px-1 rounded-xl text-[11px] leading-snug flex items-center justify-center gap-1 md:break-all max-w-[95px] mx-auto transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.playStyle.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'playStyle'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2672,7 +2702,7 @@ export default function App() {
                             initial={highlightedAttribute === 'forehandRubber' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'forehandRubber' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'forehandRubber' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.forehandRubber.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.forehandRubber.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'forehandRubber'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2689,7 +2719,7 @@ export default function App() {
                             initial={highlightedAttribute === 'backhandRubber' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'backhandRubber' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'backhandRubber' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.backhandRubber.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.backhandRubber.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'backhandRubber'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2706,7 +2736,7 @@ export default function App() {
                             initial={highlightedAttribute === 'bladeBrand' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'bladeBrand' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'bladeBrand' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.bladeBrand.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.bladeBrand.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'bladeBrand'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -2723,7 +2753,7 @@ export default function App() {
                             initial={highlightedAttribute === 'honorGold' ? { y: 20, opacity: 0.3, scale: 0.92 } : { y: 0, opacity: 1, scale: 1 }}
                             animate={{ y: 0, opacity: 1, scale: highlightedAttribute === 'honorGold' ? 1.04 : 1 }}
                             transition={{ type: 'spring', stiffness: 450, damping: 22, delay: highlightedAttribute === 'honorGold' ? idx * 0.03 : 0 }}
-                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.honorGold.status)} ${
+                            className={`py-2 px-1 rounded-xl flex items-center justify-center gap-1 transition-all duration-300 ${getFeedbackCellClasses(item.feedbacks.honorGold.status) + (idx === 0 ? ' cell-pop-inner' : '')} ${
                               highlightedAttribute === 'honorGold'
                                 ? 'ring-2 ring-indigo-500 ring-offset-2 ring-offset-slate-900 scale-[1.04] shadow-[0_0_12px_rgba(99,102,241,0.55)] z-10 font-bold animate-[pulse_2s_infinite]'
                                 : ''
@@ -3489,8 +3519,8 @@ export default function App() {
                 </h4>
                 <ul className="list-disc pl-4.5 space-y-2 text-slate-400">
                   <li><span className="text-emerald-400 font-bold">🟩 绿色高亮 — 命中</span>: 表明该特性与神秘目标百分之百吻合，完全不用再试了！</li>
-                  <li><span className="text-rose-450 font-bold">🔺 红色与上涨三角 (🔺)</span>: 数值（例如出生年、金牌数）比神秘选手低。表明实际选手的对应数值应该更高。</li>
-                  <li><span className="text-amber-450 font-bold">🔻 黄色与下跌三角 (🔻)</span>: 数值比神秘选手高。表明目标对应的数值应该更低（例如更早出生/更大龄）。</li>
+                  <li><span className="text-rose-450 font-bold">▲ 红色与上涨三角</span>: 数值（例如出生年、金牌数）比神秘选手低。表明实际选手的对应数值应该更高。</li>
+                  <li><span className="text-amber-450 font-bold">▼ 黄色与下跌三角</span>: 数值比神秘选手高。表明目标对应的数值应该更低（例如更早出生/更大龄）。</li>
                   <li><span className="text-slate-500 font-bold">灰黑色 — 排除</span>: 表明与目标性质完全不同，予以排除。</li>
                 </ul>
               </div>
@@ -3744,8 +3774,17 @@ export default function App() {
       {/* 连击浮层 */}
       {showCombo && comboCount >= 2 && (
         <div className="fixed top-1/3 left-1/2 -translate-x-1/2 z-50 pointer-events-none">
-          <div className="bg-gradient-to-r from-orange-500 to-rose-500 text-white font-black text-lg px-5 py-2 rounded-2xl shadow-[0_0_30px_rgba(249,115,22,0.4)] animate-pulse">
+          <div className="bg-gradient-to-r from-indigo-500 to-cyan-500 text-white font-black text-lg px-5 py-2 rounded-2xl shadow-[0_0_30px_rgba(99,102,241,0.4)] animate-pulse">
             🔥 {comboCount}连击！
+          </div>
+        </div>
+      )}
+
+      {/* 里程碑爆发 */}
+      {milestoneTrigger > 0 && (
+        <div className="fixed inset-0 z-50 pointer-events-none flex items-center justify-center">
+          <div className="bg-indigo-500/10 border-2 border-indigo-400/40 text-indigo-300 font-black text-lg px-6 py-3 rounded-2xl shadow-[0_0_50px_rgba(99,102,241,0.3)] backdrop-blur-sm milestone-burst">
+            🏓 属性突破！
           </div>
         </div>
       )}
@@ -3756,7 +3795,17 @@ export default function App() {
           onClick={() => {}}>
           <div className="bg-slate-900 border-2 border-indigo-500/30 shadow-2xl shadow-indigo-950/40 relative overflow-hidden w-full h-full sm:h-auto sm:max-h-[90vh] sm:rounded-3xl sm:mx-4 sm:max-w-lg flex flex-col"
             onClick={e => e.stopPropagation()}>
-            <div className="overflow-y-auto p-4 flex flex-col gap-3">
+            {/* 关闭按钮 — 始终可见 */}
+            <button onClick={() => {
+                setPlayView('lobby');
+                playSound('ping', soundEnabled);
+              }}
+              className="absolute top-3 right-3 z-20 w-8 h-8 bg-slate-800 hover:bg-slate-750 rounded-xl flex items-center justify-center border border-slate-700 transition-all cursor-pointer active:scale-90">
+              <X className="w-4 h-4 text-slate-400" />
+            </button>
+
+            {/* 可滚动内容区 */}
+            <div className="overflow-y-auto p-4 pb-2 flex flex-col gap-3 flex-1">
 
               {/* 阶段1：标题+评级+名字 */}
               <div className={`flex items-center gap-2 relative z-10 shrink-0 transition-all duration-500 ${revealStage < 1 ? 'opacity-0 scale-95' : 'opacity-100 scale-100'}`}>
@@ -3851,20 +3900,28 @@ export default function App() {
                   </div>
                 );
               })()}
+              </div>
+            </div>
 
-              <div className="flex flex-col gap-2 relative z-10 shrink-0">
-                <button onClick={handleCopyShareText}
-                  className="w-full py-3 bg-gradient-to-r from-indigo-500 to-purple-600 hover:from-indigo-600 hover:to-purple-700 text-white font-bold rounded-xl flex items-center justify-center gap-2 shadow-lg active:scale-[0.98] transition-all cursor-pointer text-xs">
-                  <Share2 className="w-4 h-4" />
-                  <span>复制不剧透图文</span>
+            {/* 底部固定按钮区 */}
+            <div className="shrink-0 border-t border-slate-800/40 bg-slate-900 p-3 flex flex-col gap-2">
+              <button onClick={handleCopyShareText}
+                className="w-full py-2.5 bg-gradient-to-r from-indigo-500 to-purple-600 hover:from-indigo-600 hover:to-purple-700 text-white font-bold rounded-xl flex items-center justify-center gap-2 shadow-lg active:scale-[0.98] transition-all cursor-pointer text-xs">
+                <Share2 className="w-4 h-4" />
+                <span>复制不剧透图文</span>
+              </button>
+              <div className="flex gap-2">
+                <button onClick={() => { setPlayView('lobby'); playSound('ping', soundEnabled); }}
+                  className="flex-1 py-2.5 bg-slate-800 hover:bg-slate-750 text-slate-300 font-semibold border border-slate-700 rounded-xl transition-all active:scale-[0.98] cursor-pointer text-xs">
+                  返回大厅
                 </button>
                 <button onClick={() => {
                     if (gameMode === 'daily') { setDailyTryAgainNotif(true); setTimeout(() => setDailyTryAgainNotif(false), 4500); }
                     else if (gameMode === 'free') { setupFreeChallenge(freeDifficulty); }
                     else if (gameMode === 'challenge') { setupDailyChallenge(); }
                   }}
-                  className="w-full py-2.5 bg-slate-800 hover:bg-slate-750 text-slate-200 font-semibold border border-slate-700 rounded-xl transition-all active:scale-[0.98] cursor-pointer text-xs">
-                  {gameMode === 'daily' ? '今日已结·自由磨炼' : '再来一局'}
+                  className="flex-1 py-2.5 bg-indigo-600 hover:bg-indigo-550 text-white font-bold border border-indigo-500/40 rounded-xl transition-all active:scale-[0.98] cursor-pointer text-xs">
+                  {gameMode === 'daily' ? '🔄 自由磨炼' : '再来一局'}
                 </button>
               </div>
 
@@ -3872,9 +3929,8 @@ export default function App() {
                 <div className="bg-slate-950 border border-emerald-500 text-emerald-300 text-xs py-2 px-3.5 rounded-lg text-center animate-bounce">✨ 已复制到剪贴板！</div>
               )}
               {dailyTryAgainNotif && (
-                <div className="bg-indigo-950/80 border border-indigo-500/30 text-indigo-300 text-[11px] py-2 px-3 rounded-lg text-center">💡 今日已记录，点击"自由开局"可继续练习。</div>
+                <div className="bg-indigo-950/80 border border-indigo-500/30 text-indigo-300 text-xs py-2 px-3 rounded-lg text-center">💡 今日已记录，可继续自由练习。</div>
               )}
-              </div>
             </div>
           </div>
         </div>
