@@ -1255,7 +1255,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col md:px-4 selection:bg-indigo-600/30 transition-colors duration-300 relative">
+    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col md:px-4 selection:bg-indigo-600/30 transition-colors duration-300 relative botw-scanlines">
       {/* Texture Background Grid Overlay */}
       <div className="absolute inset-0 overflow-x-hidden pointer-events-none z-0">
         <div className="absolute inset-0 bg-transparent bg-[radial-gradient(#94a3b8_1px,transparent_1px)] dark:bg-[radial-gradient(#334155_1px,transparent_1px)] [background-size:24px_24px] opacity-[0.04]" />
@@ -1442,7 +1442,7 @@ export default function App() {
           {playView === 'lobby' ? (
             <>
               {/* Lobby main visual entrance - Tab Switcher Container */}
-              <div className="w-full bg-white dark:bg-slate-900 rounded-3xl p-5 sm:p-7 shadow-[0_4px_12px_rgba(0,0,0,0.08)] dark:shadow-[0_4px_24px_rgba(0,0,0,0.35)] briefs border border-slate-100 dark:border-slate-805/40 relative overflow-hidden transition-all duration-300">
+              <div className="w-full botw-card rounded-lg p-5 sm:p-7 relative overflow-hidden transition-all duration-300">
                 {/* Background decorative spotlights */}
                 <div className="absolute top-0 right-0 h-48 w-48 bg-gradient-to-bl from-indigo-500/10 to-transparent filter blur-3xl rounded-full pointer-events-none" />
                 <div className="absolute bottom-0 left-0 h-48 w-48 bg-gradient-to-tr from-purple-500/10 to-transparent filter blur-3xl rounded-full pointer-events-none" />
